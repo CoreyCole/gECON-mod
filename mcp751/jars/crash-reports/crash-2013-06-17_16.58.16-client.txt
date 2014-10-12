@@ -1,0 +1,80 @@
+---- Minecraft Crash Report ----
+// This doesn't make any sense!
+
+Time: 6/17/13 4:58 PM
+Description: Updating screen events
+
+java.lang.NullPointerException
+	at gecon.mod.alpha.gui.GuiMarket.actionPerformed(GuiMarket.java:265)
+	at net.minecraft.client.gui.GuiScreen.mouseClicked(GuiScreen.java:124)
+	at net.minecraft.client.gui.inventory.GuiContainer.mouseClicked(GuiContainer.java:473)
+	at gecon.mod.alpha.gui.GuiMarket.mouseClicked(GuiMarket.java:174)
+	at net.minecraft.client.gui.GuiScreen.handleMouseInput(GuiScreen.java:203)
+	at net.minecraft.client.gui.GuiScreen.handleInput(GuiScreen.java:177)
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1499)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:834)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:759)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at gecon.mod.alpha.gui.GuiMarket.actionPerformed(GuiMarket.java:265)
+	at net.minecraft.client.gui.GuiScreen.mouseClicked(GuiScreen.java:124)
+	at net.minecraft.client.gui.inventory.GuiContainer.mouseClicked(GuiContainer.java:473)
+	at gecon.mod.alpha.gui.GuiMarket.mouseClicked(GuiMarket.java:174)
+	at net.minecraft.client.gui.GuiScreen.handleMouseInput(GuiScreen.java:203)
+	at net.minecraft.client.gui.GuiScreen.handleInput(GuiScreen.java:177)
+
+-- Affected screen --
+Details:
+	Screen name: gecon.mod.alpha.gui.GuiMarket
+
+-- Affected level --
+Details:
+	Level name: MpServer
+	All players: 1 total; [EntityClientPlayerMP['Player438'/1434642, l='MpServer', x=876.31, y=5.62, z=-32.29]]
+	Chunk stats: MultiplayerChunkCache: 441
+	Level seed: 0
+	Level generator: ID 01 - flat, ver 0. Features enabled: false
+	Level generator options: 
+	Level spawn location: World: (876,4,-30), Chunk: (at 12,0,2 in 54,-2; contains blocks 864,0,-32 to 879,255,-17), Region: (1,-1; contains chunks 32,-32 to 63,-1, blocks 512,0,-512 to 1023,255,-1)
+	Level time: 62227 game time, 62227 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: false
+	Forced entities: 52 total; [EntityCreeper['Creeper'/1698013, l='MpServer', x=906.50, y=4.00, z=-100.50], EntitySpider['Spider'/1706777, l='MpServer', x=799.88, y=4.00, z=-70.44], EntitySpider['Spider'/1706776, l='MpServer', x=801.47, y=4.00, z=-68.94], EntitySkeleton['Skeleton'/1706770, l='MpServer', x=802.69, y=4.00, z=-72.02], EntityZombie['Zombie'/1707387, l='MpServer', x=958.50, y=4.00, z=-77.50], EntitySkeleton['Skeleton'/1706768, l='MpServer', x=797.50, y=4.00, z=-74.50], EntityCreeper['Creeper'/1695212, l='MpServer', x=861.66, y=4.00, z=-2.84], EntityZombie['Zombie'/1696093, l='MpServer', x=947.13, y=4.00, z=38.22], EntitySpider['Spider'/1705334, l='MpServer', x=912.81, y=4.00, z=-6.00], EntitySpider['Spider'/1695217, l='MpServer', x=855.72, y=4.00, z=-2.53], EntitySpider['Spider'/1705328, l='MpServer', x=918.50, y=4.00, z=0.50], EntityZombie['Zombie'/1698533, l='MpServer', x=940.50, y=4.00, z=-67.50], EntitySpider['Spider'/1705336, l='MpServer', x=917.84, y=4.00, z=-4.63], EntitySpider['Spider'/1696602, l='MpServer', x=886.50, y=4.00, z=-76.50], EntitySkeleton['Skeleton'/1695994, l='MpServer', x=844.50, y=4.00, z=-66.50], EntitySpider['Spider'/1696581, l='MpServer', x=880.50, y=4.00, z=30.50], EntitySkeleton['Skeleton'/1697307, l='MpServer', x=950.50, y=4.00, z=-84.50], EntitySpider['Spider'/1696714, l='MpServer', x=910.50, y=4.00, z=29.50], EntitySpider['Spider'/1698643, l='MpServer', x=926.03, y=4.00, z=-44.97], EntityZombie['Zombie'/1698652, l='MpServer', x=824.50, y=4.00, z=-47.50], EntitySpider['Spider'/1698497, l='MpServer', x=841.88, y=4.00, z=-35.88], EntityZombie['Zombie'/1696231, l='MpServer', x=946.50, y=4.00, z=-75.50], EntityZombie['Zombie'/1698499, l='MpServer', x=855.16, y=4.00, z=-45.22], EntitySlime['Slime'/1658657, l='MpServer', x=897.06, y=4.61, z=15.43], EntityPig['Pig'/1434614, l='MpServer', x=878.22, y=4.00, z=40.63], EntitySkeleton['Skeleton'/1698493, l='MpServer', x=846.63, y=4.00, z=-43.22], EntitySkeleton['Skeleton'/1698735, l='MpServer', x=835.50, y=4.00, z=-2.50], EntityPig['Pig'/1434615, l='MpServer', x=872.91, y=4.00, z=37.38], EntityPig['Pig'/1434616, l='MpServer', x=874.56, y=4.00, z=36.38], EntityCreeper['Creeper'/1696299, l='MpServer', x=923.50, y=4.00, z=-100.50], EntityPig['Pig'/1434617, l='MpServer', x=873.16, y=4.00, z=35.38], EntityZombie['Zombie'/1706080, l='MpServer', x=856.84, y=4.00, z=0.16], EntitySpider['Spider'/1434622, l='MpServer', x=854.53, y=4.00, z=-26.75], EntitySpider['Spider'/1698744, l='MpServer', x=830.00, y=4.00, z=-5.38], EntitySlime['Slime'/1678499, l='MpServer', x=919.91, y=4.00, z=-59.09], EntitySkeleton['Skeleton'/1696849, l='MpServer', x=841.59, y=4.00, z=-39.13], EntityCreeper['Creeper'/1696319, l='MpServer', x=927.50, y=4.00, z=-48.50], EntityClientPlayerMP['Player438'/1434642, l='MpServer', x=876.31, y=5.62, z=-32.29], EntityZombie['Zombie'/1695918, l='MpServer', x=909.50, y=4.00, z=-87.50], EntitySkeleton['Skeleton'/1697145, l='MpServer', x=829.22, y=4.00, z=-11.59], EntitySkeleton['Skeleton'/1697147, l='MpServer', x=819.50, y=4.00, z=-23.50], EntityZombie['Zombie'/1695915, l='MpServer', x=906.50, y=4.00, z=-88.50], EntityCreeper['Creeper'/1696399, l='MpServer', x=886.94, y=4.00, z=47.41], EntityZombie['Zombie'/1697854, l='MpServer', x=949.50, y=4.00, z=-78.50], EntityZombie['Zombie'/1706078, l='MpServer', x=862.56, y=4.00, z=-2.47], EntitySlime['Slime'/1698719, l='MpServer', x=939.60, y=4.08, z=-9.22], EntitySpider['Spider'/1706075, l='MpServer', x=851.47, y=4.00, z=2.78], EntitySlime['Slime'/1682052, l='MpServer', x=923.72, y=4.00, z=47.32], EntitySkeleton['Skeleton'/1695539, l='MpServer', x=876.06, y=4.00, z=-62.17], EntityZombie['Zombie'/1697360, l='MpServer', x=940.81, y=4.00, z=-11.02], EntitySlime['Slime'/1689108, l='MpServer', x=912.12, y=4.00, z=-54.75], EntityCreeper['Creeper'/1697498, l='MpServer', x=946.50, y=4.00, z=39.50]]
+	Retry entities: 0 total; []
+Stacktrace:
+	at net.minecraft.client.multiplayer.WorldClient.addWorldInfoToCrashReport(WorldClient.java:441)
+	at net.minecraft.client.Minecraft.addGraphicsAndWorldToCrashReport(Minecraft.java:2413)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:775)
+	at java.lang.Thread.run(Unknown Source)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.5.2
+	Operating System: Windows 7 (amd64) version 6.1
+	Java Version: 1.7.0_06, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 513634120 bytes (489 MB) / 1037959168 bytes (989 MB) up to 1037959168 bytes (989 MB)
+	JVM Flags: 3 total; -Xincgc -Xmx1024M -Xms1024M
+	AABB Pool Size: 2604 (145824 bytes; 0 MB) allocated, 2 (112 bytes; 0 MB) used
+	Suspicious classes: FML and Forge are installed
+	IntCache: cache: 0, tcache: 0, allocated: 3, tallocated: 63
+	FML: MCP v7.51 FML v5.2.2.684 Minecraft Forge 7.8.0.684 4 mods loaded, 4 mods active
+	mcp{7.44} [Minecraft Coder Pack] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available->Available->Available->Available->Available->Available->Available->Available->Available->Available->Available
+	FML{5.2.2.684} [Forge Mod Loader] (coremods) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available->Available->Available->Available->Available->Available->Available->Available->Available->Available->Available
+	Forge{7.8.0.684} [Minecraft Forge] (coremods) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available->Available->Available->Available->Available->Available->Available->Available->Available->Available->Available
+	woodnet_gECON{0.1a} [gECON Alpha] (bin) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available->Available->Available->Available->Available->Available->Available->Available->Available->Available->Available
+	LWJGL: 2.4.2
+	OpenGL: ATI Radeon HD 5800 Series GL version 4.2.12002 Compatibility Profile Context 9.12.0.0, ATI Technologies Inc.
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Texture Pack: Default
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 147 (8232 bytes; 0 MB) allocated, 16 (896 bytes; 0 MB) used

@@ -1,0 +1,21 @@
+package gecon.mod.alpha;
+
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+import cpw.mods.fml.common.Mod;
+import cpw.mods.fml.common.Mod.Init;
+import cpw.mods.fml.common.event.FMLInitializationEvent;
+
+@Mod(modid = gECON.modid, name = "gECON Alpha", version = "0.1a")
+public class gECON 
+{
+	 public static final String modid = "woodnet_gECON";
+	 
+	 public static Block bankBlock;
+	 
+	 @Init
+	 public void load(FMLInitializationEvent event)
+	 {
+		 
+	 }
+}

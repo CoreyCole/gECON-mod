@@ -1,0 +1,77 @@
+---- Minecraft Crash Report ----
+// There are four lights!
+
+Time: 5/19/13 9:15 PM
+Description: Unexpected error
+
+java.lang.Error: Unresolved compilation problems: 
+	par1InventoryPlayer cannot be resolved to a variable
+	par1InventoryPlayer cannot be resolved to a variable
+
+	at gecon.mod.alpha.container.ContainerBank.<init>(ContainerBank.java:31)
+	at gecon.mod.alpha.gui.GuiBank.<init>(GuiBank.java:15)
+	at gecon.mod.alpha.block.BlockBank.onBlockActivated(BlockBank.java:38)
+	at net.minecraft.client.multiplayer.PlayerControllerMP.onPlayerRightClick(PlayerControllerMP.java:366)
+	at net.minecraft.client.Minecraft.clickMouse(Minecraft.java:1315)
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1799)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:834)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:759)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at gecon.mod.alpha.container.ContainerBank.<init>(ContainerBank.java:31)
+	at gecon.mod.alpha.gui.GuiBank.<init>(GuiBank.java:15)
+	at gecon.mod.alpha.block.BlockBank.onBlockActivated(BlockBank.java:38)
+	at net.minecraft.client.multiplayer.PlayerControllerMP.onPlayerRightClick(PlayerControllerMP.java:366)
+	at net.minecraft.client.Minecraft.clickMouse(Minecraft.java:1315)
+
+-- Affected level --
+Details:
+	Level name: MpServer
+	All players: 1 total; [EntityClientPlayerMP['Player76'/48, l='MpServer', x=-897.81, y=5.62, z=424.42]]
+	Chunk stats: MultiplayerChunkCache: 441
+	Level seed: 0
+	Level generator: ID 01 - flat, ver 0. Features enabled: false
+	Level generator options: 
+	Level spawn location: World: (-889,4,426), Chunk: (at 7,0,10 in -56,26; contains blocks -896,0,416 to -881,255,431), Region: (-2,0; contains chunks -64,0 to -33,31, blocks -1024,0,0 to -513,255,511)
+	Level time: 152740 game time, 152740 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: true), thunder time: 0 (now: false)
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: false
+	Forced entities: 14 total; [EntityPig['Pig'/6, l='MpServer', x=-956.44, y=4.00, z=501.56], EntityChicken['Chicken'/13, l='MpServer', x=-904.28, y=4.00, z=496.66], EntitySlime['Slime'/1077754, l='MpServer', x=-826.49, y=4.33, z=473.77], EntitySlime['Slime'/1010803, l='MpServer', x=-901.22, y=4.00, z=429.00], EntityPig['Pig'/21, l='MpServer', x=-864.44, y=4.00, z=493.88], EntityChicken['Chicken'/20, l='MpServer', x=-870.56, y=4.00, z=496.38], EntityChicken['Chicken'/28, l='MpServer', x=-856.53, y=4.00, z=489.47], EntityPig['Pig'/31, l='MpServer', x=-828.19, y=4.00, z=465.34], EntityPig['Pig'/30, l='MpServer', x=-838.97, y=4.00, z=439.97], EntityPig['Pig'/32, l='MpServer', x=-841.78, y=4.00, z=496.25], EntityPig['Pig'/33, l='MpServer', x=-840.56, y=4.00, z=494.03], EntityPig['Pig'/40, l='MpServer', x=-818.97, y=4.00, z=495.84], EntitySlime['Slime'/1004989, l='MpServer', x=-972.45, y=4.00, z=467.23], EntityClientPlayerMP['Player76'/48, l='MpServer', x=-897.81, y=5.62, z=424.42]]
+	Retry entities: 0 total; []
+Stacktrace:
+	at net.minecraft.client.multiplayer.WorldClient.addWorldInfoToCrashReport(WorldClient.java:441)
+	at net.minecraft.client.Minecraft.addGraphicsAndWorldToCrashReport(Minecraft.java:2413)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:782)
+	at java.lang.Thread.run(Unknown Source)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.5.2
+	Operating System: Windows 7 (amd64) version 6.1
+	Java Version: 1.7.0_06, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 658946744 bytes (628 MB) / 1037959168 bytes (989 MB) up to 1037959168 bytes (989 MB)
+	JVM Flags: 3 total; -Xincgc -Xmx1024M -Xms1024M
+	AABB Pool Size: 21442 (1200752 bytes; 1 MB) allocated, 2 (112 bytes; 0 MB) used
+	Suspicious classes: FML and Forge are installed
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v7.51 FML v5.2.2.684 Minecraft Forge 7.8.0.684 4 mods loaded, 4 mods active
+	mcp{7.44} [Minecraft Coder Pack] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	FML{5.2.2.684} [Forge Mod Loader] (coremods) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Forge{7.8.0.684} [Minecraft Forge] (coremods) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	woodnet_gECON{0.1a} [gECON Alpha] (bin) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	LWJGL: 2.4.2
+	OpenGL: ATI Radeon HD 5800 Series GL version 4.2.12002 Compatibility Profile Context 9.12.0.0, ATI Technologies Inc.
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Texture Pack: Default
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 261 (14616 bytes; 0 MB) allocated, 16 (896 bytes; 0 MB) used

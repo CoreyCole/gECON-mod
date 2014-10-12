@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="net.minecraft.inventory.Container"/>
+<fullyQualifiedTypeName name="net.minecraft.inventory.Slot"/>
+<fullyQualifiedTypeName name="gecon.mod.alpha.container.ContainerBank"/>
+<fullyQualifiedTypeName name="gecon.mod.alpha.gui.GuiBank"/>
+<fullyQualifiedTypeName name="org.lwjgl.opengl.GL11"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.player.InventoryPlayer"/>
+<fullyQualifiedTypeName name="net.minecraft.inventory.ISidedInventory"/>
+<fullyQualifiedTypeName name="net.minecraft.nbt.NBTTagCompound"/>
+<fullyQualifiedTypeName name="net.minecraft.nbt.NBTTagList"/>
+<fullyQualifiedTypeName name="net.minecraft.block.BlockContainer"/>
+<fullyQualifiedTypeName name="gecon.mod.alpha.gECON"/>
+<fullyQualifiedTypeName name="gecon.mod.alpha.block.BlockBank"/>
+<fullyQualifiedTypeName name="net.minecraft.inventory.IInventory"/>
+<fullyQualifiedTypeName name="gecon.mod.alpha.container.TileEntityBank"/>
+<fullyQualifiedTypeName name="net.minecraft.client.entity.EntityPlayerSP"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.player.EntityPlayer"/>
+<fullyQualifiedTypeName name="net.minecraft.world.World"/>
+<fullyQualifiedTypeName name="gecon.mod.alpha.tileentity.TileEntityMarketAnalysis"/>
+<fullyQualifiedTypeName name="gecon.mod.alpha.container.ContainerMarketAnalysis"/>
+<fullyQualifiedTypeName name="net.minecraft.client.gui.inventory.GuiContainer"/>
+<fullyQualifiedTypeName name="net.minecraft.tileentity.TileEntity"/>
+<fullyQualifiedTypeName name="net.minecraft.client.gui.GuiTextField"/>
+<fullyQualifiedTypeName name="net.minecraft.client.gui.GuiButton"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="java.beans.Statement"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="java.sql.Statement"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="gecon.mod.alpha.BankItem"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ItemStack"/>
+<fullyQualifiedTypeName name="java.sql.DatabaseMetaData"/>
+<fullyQualifiedTypeName name="gecon.mod.alpha.misc.DatabaseMethods"/>
+</qualifiedTypeNameHistroy>

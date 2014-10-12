@@ -1,0 +1,12 @@
+{
+  "F:\\workspace\\gECON Workspace\\gECON\\mcp751\\src\\minecraft": {
+    "location": "F:\\workspace\\gECON Workspace\\gECON\\mcp751\\src\\minecraft",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027F:\\workspace\\gECON Workspace\\gECON\\mcp751\\src\\minecraft\u0027. Skipped."
+  },
+  "C:\\Program Files\\Java\\jre7\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:ovrm:1.0.0",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\rt.jar",
+    "status": "RESOLVED"
+  }
+}

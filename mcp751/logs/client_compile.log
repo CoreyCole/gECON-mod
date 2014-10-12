@@ -1,0 +1,21 @@
+src\minecraft\net\minecraft\client\entity\EntityPlayerSP.java:21: warning: [deprecation] ISidedInventory in net.minecraftforge.common has been deprecated
+import net.minecraft.client.particle.EntityPickupFX;
+                        ^
+src\minecraft\net\minecraft\tileentity\TileEntityFurnace.java:502: warning: [deprecation] getSizeInventorySide(ForgeDirection) in ISidedInventory has been deprecated
+    public int getSizeInventorySide(ForgeDirection side)
+               ^
+src\minecraft\net\minecraft\tileentity\TileEntityFurnace.java:485: warning: [deprecation] getStartInventorySide(ForgeDirection) in ISidedInventory has been deprecated
+    public int getStartInventorySide(ForgeDirection side)
+               ^
+src\minecraft\net\minecraft\item\Item.java:1112: warning: [deprecation] IArmorTextureProvider in net.minecraftforge.common has been deprecated
+        return isArmorProvider ? ((IArmorTextureProvider)this).getArmorTextureFile(stack) : null;
+                                   ^
+src\minecraft\net\minecraft\src\ModLoader.java:632: warning: [deprecation] registerBlock(Block) in GameRegistry has been deprecated
+        GameRegistry.registerBlock(block);
+                    ^
+src\minecraft\net\minecraft\src\ModLoader.java:643: warning: [deprecation] registerBlock(Block,Class<? extends ItemBlock>) in GameRegistry has been deprecated
+        GameRegistry.registerBlock(block, itemclass);
+                    ^
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+6 warnings

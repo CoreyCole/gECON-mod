@@ -1,0 +1,1225 @@
+2013-05-18 15:57:06 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-18 15:57:06 [SERVER] [INFO] Generating keypair
+2013-05-18 15:57:06 [SERVER] [INFO] Converting map!
+2013-05-18 15:57:06 [SERVER] [INFO] Scanning folders...
+2013-05-18 15:57:06 [SERVER] [INFO] Total conversion count is 0
+2013-05-18 15:57:07 [SERVER] [INFO] Preparing start region for level 0
+2013-05-18 15:57:08 [SERVER] [INFO] Preparing spawn area: 7%
+2013-05-18 15:57:09 [SERVER] [INFO] Preparing spawn area: 18%
+2013-05-18 15:57:10 [SERVER] [INFO] Preparing spawn area: 34%
+2013-05-18 15:57:11 [SERVER] [INFO] Preparing spawn area: 52%
+2013-05-18 15:57:12 [SERVER] [INFO] Preparing spawn area: 70%
+2013-05-18 15:57:13 [SERVER] [INFO] Preparing spawn area: 98%
+2013-05-18 15:57:14 [SERVER] [INFO] Player471[/127.0.0.1:0] logged in with entity id 173 at (-1.5, 99.0, 262.5)
+2013-05-18 15:57:18 [SERVER] [INFO] Saving and pausing game...
+2013-05-18 15:57:18 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 15:57:25 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 15:57:25 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 15:57:26 [SERVER] [INFO] Stopping server
+2013-05-18 15:57:26 [SERVER] [INFO] Saving players
+2013-05-18 15:57:26 [SERVER] [INFO] Saving worlds
+2013-05-18 15:57:26 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 15:57:27 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 15:57:27 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 16:50:45 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-18 16:50:45 [SERVER] [INFO] Generating keypair
+2013-05-18 16:50:46 [SERVER] [INFO] Preparing start region for level 0
+2013-05-18 16:50:48 [SERVER] [INFO] Player106[/127.0.0.1:0] logged in with entity id 25 at (-890.0228962561005, 4.0, 420.9164293614691)
+2013-05-18 16:51:17 [SERVER] [INFO] [Player106: Set own game mode to Creative Mode]
+2013-05-18 16:52:49 [SERVER] [INFO] Saving and pausing game...
+2013-05-18 16:52:49 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 16:52:49 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 16:52:49 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 16:52:57 [SERVER] [INFO] Saving and pausing game...
+2013-05-18 16:52:57 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 16:52:57 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 16:52:57 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 16:53:08 [SERVER] [INFO] Saving and pausing game...
+2013-05-18 16:53:08 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 16:53:08 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 16:53:10 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 16:53:21 [SERVER] [INFO] Saving and pausing game...
+2013-05-18 16:53:21 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 16:53:21 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 16:53:22 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 16:53:28 [SERVER] [INFO] Saving and pausing game...
+2013-05-18 16:53:28 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 16:53:28 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 16:53:28 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 16:53:37 [SERVER] [INFO] Saving and pausing game...
+2013-05-18 16:53:37 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 16:53:37 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 16:53:38 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 16:53:38 [SERVER] [INFO] Player106 lost connection: disconnect.quitting
+2013-05-18 16:53:38 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2013-05-18 16:53:38 [SERVER] [INFO] Stopping server
+2013-05-18 16:53:38 [SERVER] [INFO] Saving players
+2013-05-18 16:53:38 [SERVER] [INFO] Saving worlds
+2013-05-18 16:53:38 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 16:53:39 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 16:53:40 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 16:57:35 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-18 16:57:35 [SERVER] [INFO] Generating keypair
+2013-05-18 16:57:36 [SERVER] [INFO] Preparing start region for level 0
+2013-05-18 16:57:38 [SERVER] [INFO] Player890[/127.0.0.1:0] logged in with entity id 29 at (-894.6523823830659, 4.0, 418.69120670209753)
+2013-05-18 16:58:21 [SERVER] [INFO] Saving and pausing game...
+2013-05-18 16:58:22 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 16:58:22 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 16:58:23 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 16:58:24 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-18 16:58:33 [SERVER] [INFO] Saving and pausing game...
+2013-05-18 16:58:35 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 16:58:35 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 16:58:35 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 16:58:54 [SERVER] [INFO] Saving and pausing game...
+2013-05-18 16:58:54 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 16:58:56 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 16:58:56 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 16:58:56 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-18 16:59:06 [SERVER] [INFO] Saving and pausing game...
+2013-05-18 16:59:06 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 16:59:06 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 16:59:06 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 16:59:13 [SERVER] [INFO] Saving and pausing game...
+2013-05-18 16:59:13 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 16:59:13 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 16:59:14 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 16:59:24 [SERVER] [INFO] Saving and pausing game...
+2013-05-18 16:59:24 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 16:59:24 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 16:59:24 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 16:59:49 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-18 17:01:38 [SERVER] [INFO] [Player890: Set own game mode to Survival Mode]
+2013-05-18 17:02:06 [SERVER] [INFO] [Player890: Set own game mode to Adventure Mode]
+2013-05-18 17:02:11 [SERVER] [INFO] [Player890: Set own game mode to Creative Mode]
+2013-05-18 17:02:55 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-18 17:03:42 [SERVER] [INFO] [Player890: Set own game mode to Survival Mode]
+2013-05-18 17:04:11 [SERVER] [INFO] [Player890: Set own game mode to Creative Mode]
+2013-05-18 17:09:00 [SERVER] [INFO] [Player890: Set own game mode to Survival Mode]
+2013-05-18 17:09:21 [SERVER] [INFO] Saving and pausing game...
+2013-05-18 17:09:21 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 17:09:22 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 17:09:22 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 17:09:24 [SERVER] [INFO] Player890 was slain by Zombie
+2013-05-18 17:09:24 [SERVER] [INFO] Saving and pausing game...
+2013-05-18 17:09:25 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 17:09:30 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 17:09:30 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 17:09:30 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-18 17:09:44 [SERVER] [INFO] [Player890: Set own game mode to Creative Mode]
+2013-05-18 17:10:02 [SERVER] [INFO] Saving and pausing game...
+2013-05-18 17:10:03 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 17:10:04 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 17:10:04 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 17:10:54 [SERVER] [INFO] Saving and pausing game...
+2013-05-18 17:10:54 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 17:10:54 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 17:10:55 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 17:11:02 [SERVER] [INFO] Saving and pausing game...
+2013-05-18 17:11:02 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 17:11:02 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 17:11:02 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 17:11:08 [SERVER] [INFO] Saving and pausing game...
+2013-05-18 17:11:08 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 17:11:09 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 17:11:09 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 17:11:15 [SERVER] [INFO] Saving and pausing game...
+2013-05-18 17:11:16 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 17:11:16 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 17:11:16 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 17:15:58 [SERVER] [INFO] Saving and pausing game...
+2013-05-18 17:15:59 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 17:15:59 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 17:16:00 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 17:16:01 [SERVER] [INFO] Player890 lost connection: disconnect.quitting
+2013-05-18 17:16:01 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2013-05-18 17:16:01 [SERVER] [INFO] Stopping server
+2013-05-18 17:16:01 [SERVER] [INFO] Saving players
+2013-05-18 17:16:01 [SERVER] [INFO] Saving worlds
+2013-05-18 17:16:01 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 17:16:01 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 17:16:01 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 17:33:57 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-18 17:33:57 [SERVER] [INFO] Generating keypair
+2013-05-18 17:33:57 [SERVER] [INFO] Preparing start region for level 0
+2013-05-18 17:33:59 [SERVER] [INFO] Player767[/127.0.0.1:0] logged in with entity id 45 at (-894.5960798078428, 4.0, 425.9946580871889)
+2013-05-18 18:33:20 [SERVER] [INFO] Saving and pausing game...
+2013-05-18 18:33:20 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 18:33:20 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 18:33:20 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 18:33:21 [SERVER] [INFO] Player767 lost connection: disconnect.quitting
+2013-05-18 18:33:21 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2013-05-18 18:33:21 [SERVER] [INFO] Stopping server
+2013-05-18 18:33:21 [SERVER] [INFO] Saving players
+2013-05-18 18:33:21 [SERVER] [INFO] Saving worlds
+2013-05-18 18:33:21 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 18:33:22 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 18:33:22 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 21:22:49 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-18 21:22:49 [SERVER] [INFO] Generating keypair
+2013-05-18 21:22:50 [SERVER] [INFO] Preparing start region for level 0
+2013-05-18 21:22:51 [SERVER] [INFO] Player667[/127.0.0.1:0] logged in with entity id 47 at (-894.5960798078428, 4.0, 425.9946580871889)
+2013-05-18 21:25:07 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-18 21:25:10 [SERVER] [INFO] Saving and pausing game...
+2013-05-18 21:25:16 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 21:25:17 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 21:25:17 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 21:25:18 [SERVER] [INFO] Stopping server
+2013-05-18 21:25:18 [SERVER] [INFO] Saving players
+2013-05-18 21:25:18 [SERVER] [INFO] Saving worlds
+2013-05-18 21:25:18 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-18 21:25:18 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-18 21:25:18 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-18 22:14:09 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-18 22:14:09 [SERVER] [INFO] Generating keypair
+2013-05-18 22:14:09 [SERVER] [INFO] Preparing start region for level 0
+2013-05-18 22:14:11 [SERVER] [INFO] Player112[/127.0.0.1:0] logged in with entity id 28 at (-896.6796576352953, 4.0, 424.5910208416823)
+2013-05-19 18:55:45 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-19 18:55:45 [SERVER] [INFO] Generating keypair
+2013-05-19 18:55:46 [SERVER] [INFO] Preparing start region for level 0
+2013-05-19 18:55:48 [SERVER] [INFO] Player116[/127.0.0.1:0] logged in with entity id 28 at (-896.6796576352953, 4.0, 424.5910208416823)
+2013-05-19 18:58:18 [SERVER] [INFO] Saving and pausing game...
+2013-05-19 18:58:19 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-19 18:58:19 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-19 18:58:20 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-19 18:58:20 [SERVER] [INFO] Player116 lost connection: disconnect.quitting
+2013-05-19 18:58:20 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2013-05-19 18:58:21 [SERVER] [INFO] Stopping server
+2013-05-19 18:58:21 [SERVER] [INFO] Saving players
+2013-05-19 18:58:21 [SERVER] [INFO] Saving worlds
+2013-05-19 18:58:21 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-19 18:58:21 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-19 18:58:21 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-19 19:18:06 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-19 19:18:06 [SERVER] [INFO] Generating keypair
+2013-05-19 19:18:11 [SERVER] [INFO] Preparing start region for level 0
+2013-05-19 19:18:12 [SERVER] [INFO] Player393[/127.0.0.1:0] logged in with entity id 30 at (-894.9905004697025, 4.0, 426.3411344492719)
+2013-05-19 19:18:28 [SERVER] [INFO] Saving and pausing game...
+2013-05-19 19:18:28 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-19 19:18:28 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-19 19:18:29 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-19 19:18:30 [SERVER] [INFO] Player393 lost connection: disconnect.quitting
+2013-05-19 19:18:30 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2013-05-19 19:18:30 [SERVER] [INFO] Stopping server
+2013-05-19 19:18:30 [SERVER] [INFO] Saving players
+2013-05-19 19:18:30 [SERVER] [INFO] Saving worlds
+2013-05-19 19:18:30 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-19 19:18:30 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-19 19:18:30 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-19 19:25:14 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-19 19:25:14 [SERVER] [INFO] Generating keypair
+2013-05-19 19:25:14 [SERVER] [INFO] Preparing start region for level 0
+2013-05-19 19:25:16 [SERVER] [INFO] Player752[/127.0.0.1:0] logged in with entity id 31 at (-896.2121291867642, 4.0, 424.8681787718493)
+2013-05-19 19:26:49 [SERVER] [INFO] Stopping server
+2013-05-19 20:09:13 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-19 20:09:13 [SERVER] [INFO] Generating keypair
+2013-05-19 20:09:14 [SERVER] [INFO] Preparing start region for level 0
+2013-05-19 20:09:16 [SERVER] [INFO] Player686[/127.0.0.1:0] logged in with entity id 28 at (-891.9101008523252, 4.0, 425.4631943168382)
+2013-05-19 20:09:46 [SERVER] [INFO] Saving and pausing game...
+2013-05-19 20:09:47 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-19 20:09:47 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-19 20:09:48 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-19 20:09:48 [SERVER] [INFO] Stopping server
+2013-05-19 20:12:32 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-19 20:12:32 [SERVER] [INFO] Generating keypair
+2013-05-19 20:12:32 [SERVER] [INFO] Preparing start region for level 0
+2013-05-19 20:12:35 [SERVER] [INFO] Player469[/127.0.0.1:0] logged in with entity id 29 at (-896.7217783454379, 4.0, 424.0040395231671)
+2013-05-19 20:12:35 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-19 20:13:41 [SERVER] [INFO] Saving and pausing game...
+2013-05-19 20:13:41 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-19 20:13:43 [SERVER] [INFO] Stopping server
+2013-05-19 20:21:34 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-19 20:21:34 [SERVER] [INFO] Generating keypair
+2013-05-19 20:21:35 [SERVER] [INFO] Preparing start region for level 0
+2013-05-19 20:21:36 [SERVER] [INFO] Player234[/127.0.0.1:0] logged in with entity id 105 at (-896.3856198747251, 4.0, 425.0298785802576)
+2013-05-19 20:23:27 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-19 20:23:27 [SERVER] [INFO] Generating keypair
+2013-05-19 20:23:28 [SERVER] [INFO] Preparing start region for level 0
+2013-05-19 20:23:30 [SERVER] [INFO] Player839[/127.0.0.1:0] logged in with entity id 104 at (-897.5249222753694, 4.0, 424.81380767394717)
+2013-05-19 20:24:36 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-19 20:24:36 [SERVER] [INFO] Generating keypair
+2013-05-19 20:24:37 [SERVER] [INFO] Preparing start region for level 0
+2013-05-19 20:24:39 [SERVER] [INFO] Player755[/127.0.0.1:0] logged in with entity id 100 at (-897.5249222753694, 4.0, 424.81380767394717)
+2013-05-19 20:30:06 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-19 20:30:06 [SERVER] [INFO] Generating keypair
+2013-05-19 20:30:06 [SERVER] [INFO] Preparing start region for level 0
+2013-05-19 20:30:07 [SERVER] [INFO] Preparing spawn area: 98%
+2013-05-19 20:30:09 [SERVER] [INFO] Player243[/127.0.0.1:0] logged in with entity id 106 at (-897.5249222753694, 4.0, 424.81380767394717)
+2013-05-19 20:33:03 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-19 20:33:03 [SERVER] [INFO] Generating keypair
+2013-05-19 20:33:04 [SERVER] [INFO] Preparing start region for level 0
+2013-05-19 20:33:06 [SERVER] [INFO] Player862[/127.0.0.1:0] logged in with entity id 99 at (-897.5249222753694, 4.0, 424.81380767394717)
+2013-05-19 20:36:00 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-19 20:36:00 [SERVER] [INFO] Generating keypair
+2013-05-19 20:36:01 [SERVER] [INFO] Preparing start region for level 0
+2013-05-19 20:36:02 [SERVER] [INFO] Preparing spawn area: 99%
+2013-05-19 20:36:03 [SERVER] [INFO] Player31[/127.0.0.1:0] logged in with entity id 107 at (-897.5249222753694, 4.0, 424.81380767394717)
+2013-05-19 20:36:49 [SERVER] [INFO] Stopping server
+2013-05-19 20:40:39 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-19 20:40:39 [SERVER] [INFO] Generating keypair
+2013-05-19 20:40:40 [SERVER] [INFO] Preparing start region for level 0
+2013-05-19 20:40:41 [SERVER] [INFO] Player396[/127.0.0.1:0] logged in with entity id 101 at (-897.4962552100519, 4.0, 424.3928201511247)
+2013-05-19 20:41:44 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-19 20:41:44 [SERVER] [INFO] Generating keypair
+2013-05-19 20:41:45 [SERVER] [INFO] Preparing start region for level 0
+2013-05-19 20:41:46 [SERVER] [INFO] Preparing spawn area: 98%
+2013-05-19 20:41:46 [SERVER] [INFO] Player687[/127.0.0.1:0] logged in with entity id 101 at (-897.4962552100519, 4.0, 424.3928201511247)
+2013-05-19 20:41:48 [SERVER] [INFO] Saving and pausing game...
+2013-05-19 20:41:48 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-19 20:41:49 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-19 20:41:49 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-19 20:42:16 [SERVER] [INFO] Stopping server
+2013-05-19 20:42:57 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-19 20:42:57 [SERVER] [INFO] Generating keypair
+2013-05-19 20:42:58 [SERVER] [INFO] Preparing start region for level 0
+2013-05-19 20:43:00 [SERVER] [INFO] Player955[/127.0.0.1:0] logged in with entity id 101 at (-897.4962552100519, 4.0, 424.3928201511247)
+2013-05-19 20:43:47 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-19 20:44:34 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-19 20:47:34 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-19 20:50:05 [SERVER] [INFO] Stopping server
+2013-05-19 20:50:05 [SERVER] [INFO] Saving players
+2013-05-19 20:50:05 [SERVER] [INFO] Saving worlds
+2013-05-19 20:50:05 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-19 20:50:06 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-19 20:50:07 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-19 20:50:41 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-19 20:50:41 [SERVER] [INFO] Generating keypair
+2013-05-19 20:50:42 [SERVER] [INFO] Preparing start region for level 0
+2013-05-19 20:50:44 [SERVER] [INFO] Player754[/127.0.0.1:0] logged in with entity id 47 at (-897.4962552100519, 4.0, 424.3928201511247)
+2013-05-19 20:50:47 [SERVER] [INFO] Stopping server
+2013-05-19 20:50:47 [SERVER] [INFO] Saving players
+2013-05-19 20:50:47 [SERVER] [INFO] Saving worlds
+2013-05-19 20:50:47 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-19 20:50:48 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-19 20:50:48 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-19 20:50:49 [SERVER] [INFO] Stopping server
+2013-05-19 20:52:40 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-19 20:52:40 [SERVER] [INFO] Generating keypair
+2013-05-19 20:52:41 [SERVER] [INFO] Preparing start region for level 0
+2013-05-19 20:52:42 [SERVER] [INFO] Player76[/127.0.0.1:0] logged in with entity id 48 at (-897.4962552100519, 4.0, 424.3928201511247)
+2013-05-19 20:54:21 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-19 20:55:06 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-19 20:55:58 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-19 20:57:29 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-19 21:00:30 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-19 21:06:30 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-19 21:14:01 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-19 21:15:26 [SERVER] [INFO] Stopping server
+2013-05-19 21:15:26 [SERVER] [INFO] Saving players
+2013-05-19 21:15:26 [SERVER] [INFO] Saving worlds
+2013-05-19 21:15:26 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-19 21:15:27 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-19 21:15:27 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-19 21:16:23 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-19 21:16:23 [SERVER] [INFO] Generating keypair
+2013-05-19 21:16:23 [SERVER] [INFO] Preparing start region for level 0
+2013-05-19 21:16:25 [SERVER] [INFO] Player812[/127.0.0.1:0] logged in with entity id 32 at (-897.8109109851555, 4.0, 424.41610129444103)
+2013-05-19 21:23:11 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-19 21:24:00 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-19 21:25:00 [SERVER] [INFO] [Player812: Set own game mode to Survival Mode]
+2013-05-19 21:32:18 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-19 21:35:20 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-19 22:26:53 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-19 22:26:53 [SERVER] [INFO] Generating keypair
+2013-05-19 22:26:54 [SERVER] [INFO] Preparing start region for level 0
+2013-05-19 22:26:55 [SERVER] [INFO] Preparing spawn area: 92%
+2013-05-19 22:26:55 [SERVER] [INFO] Player926[/127.0.0.1:0] logged in with entity id 39 at (-895.2406762155252, 4.0, 425.393977442667)
+2013-05-19 22:27:06 [SERVER] [INFO] Saving and pausing game...
+2013-05-19 22:27:06 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-19 22:27:07 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-19 22:27:07 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-19 22:27:07 [SERVER] [INFO] Player926 lost connection: disconnect.quitting
+2013-05-19 22:27:07 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2013-05-19 22:27:09 [SERVER] [INFO] Stopping server
+2013-05-19 22:27:09 [SERVER] [INFO] Saving players
+2013-05-19 22:27:09 [SERVER] [INFO] Saving worlds
+2013-05-19 22:27:09 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-19 22:27:15 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-19 22:27:15 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-19 23:06:21 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-19 23:06:21 [SERVER] [INFO] Generating keypair
+2013-05-19 23:06:22 [SERVER] [INFO] Preparing start region for level 0
+2013-05-19 23:06:23 [SERVER] [INFO] Player488[/127.0.0.1:0] logged in with entity id 38 at (-896.9256593365083, 4.0, 425.4729238028278)
+2013-05-19 23:06:52 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-19 23:07:23 [SERVER] [INFO] [Player488: Set own game mode to Creative Mode]
+2013-05-19 23:08:33 [SERVER] [INFO] [Player488: Set own game mode to Survival Mode]
+2013-05-19 23:09:20 [SERVER] [INFO] Saving and pausing game...
+2013-05-19 23:09:20 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-19 23:09:21 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-19 23:09:21 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-19 23:09:33 [SERVER] [INFO] Saving and pausing game...
+2013-05-19 23:09:33 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-19 23:09:33 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-19 23:09:35 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-19 23:09:36 [SERVER] [INFO] Player488 lost connection: disconnect.quitting
+2013-05-19 23:09:40 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2013-05-19 23:09:40 [SERVER] [INFO] Stopping server
+2013-05-19 23:09:40 [SERVER] [INFO] Saving players
+2013-05-19 23:09:40 [SERVER] [INFO] Saving worlds
+2013-05-19 23:09:40 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-19 23:09:41 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-19 23:09:42 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-19 23:20:03 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-19 23:20:03 [SERVER] [INFO] Generating keypair
+2013-05-19 23:20:05 [SERVER] [INFO] Preparing start region for level 0
+2013-05-19 23:20:06 [SERVER] [INFO] Player550[/127.0.0.1:0] logged in with entity id 114 at (-897.3074122324473, 4.0, 424.66497764418176)
+2013-05-19 23:20:36 [SERVER] [INFO] Saving and pausing game...
+2013-05-19 23:20:37 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-19 23:20:38 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-19 23:20:39 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-19 23:20:39 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-19 23:21:00 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-19 23:21:45 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-19 23:23:29 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-19 23:23:29 [SERVER] [INFO] Generating keypair
+2013-05-19 23:23:30 [SERVER] [INFO] Preparing start region for level 0
+2013-05-19 23:23:34 [SERVER] [INFO] Player787[/127.0.0.1:0] logged in with entity id 110 at (-897.3074122324473, 4.0, 424.66497764418176)
+2013-05-19 23:23:34 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-19 23:24:40 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-19 23:25:51 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-19 23:26:45 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-19 23:27:33 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-19 23:43:31 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-19 23:43:31 [SERVER] [INFO] Generating keypair
+2013-05-19 23:43:32 [SERVER] [INFO] Preparing start region for level 0
+2013-05-19 23:43:33 [SERVER] [INFO] Player556[/127.0.0.1:0] logged in with entity id 102 at (-897.3074122324473, 4.0, 424.66497764418176)
+2013-05-19 23:50:54 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-19 23:50:54 [SERVER] [INFO] Generating keypair
+2013-05-19 23:50:55 [SERVER] [INFO] Preparing start region for level 0
+2013-05-19 23:50:56 [SERVER] [INFO] Preparing spawn area: 51%
+2013-05-19 23:50:56 [SERVER] [INFO] Player21[/127.0.0.1:0] logged in with entity id 102 at (-897.3074122324473, 4.0, 424.66497764418176)
+2013-05-19 23:52:52 [SERVER] [INFO] Stopping server
+2013-05-19 23:52:52 [SERVER] [INFO] Saving players
+2013-05-20 00:10:09 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-20 00:10:09 [SERVER] [INFO] Generating keypair
+2013-05-20 00:10:11 [SERVER] [INFO] Preparing start region for level 0
+2013-05-20 00:10:13 [SERVER] [INFO] Player635[/127.0.0.1:0] logged in with entity id 54 at (-895.9162098344572, 4.0, 423.34170847661744)
+2013-05-20 00:10:17 [SERVER] [INFO] Stopping server
+2013-05-20 00:10:17 [SERVER] [INFO] Saving players
+2013-05-20 00:10:18 [SERVER] [INFO] Saving worlds
+2013-05-20 00:10:18 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-20 00:10:18 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-20 00:10:19 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-20 00:12:38 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-20 00:12:38 [SERVER] [INFO] Generating keypair
+2013-05-20 00:12:39 [SERVER] [INFO] Preparing start region for level 0
+2013-05-20 00:12:40 [SERVER] [INFO] Preparing spawn area: 99%
+2013-05-20 00:12:41 [SERVER] [INFO] Player55[/127.0.0.1:0] logged in with entity id 54 at (-895.9162098344572, 4.0, 423.34170847661744)
+2013-05-20 00:12:44 [SERVER] [INFO] Stopping server
+2013-05-20 00:12:44 [SERVER] [INFO] Saving players
+2013-05-20 00:12:45 [SERVER] [INFO] Saving worlds
+2013-05-20 00:12:45 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-20 00:12:45 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-20 00:12:46 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-20 00:14:38 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-20 00:14:38 [SERVER] [INFO] Generating keypair
+2013-05-20 00:14:38 [SERVER] [INFO] Preparing start region for level 0
+2013-05-20 00:14:39 [SERVER] [INFO] Preparing spawn area: 99%
+2013-05-20 00:14:40 [SERVER] [INFO] Player677[/127.0.0.1:0] logged in with entity id 55 at (-895.9162098344572, 4.0, 423.34170847661744)
+2013-05-20 00:14:43 [SERVER] [INFO] Stopping server
+2013-05-20 00:14:43 [SERVER] [INFO] Saving players
+2013-05-20 00:14:43 [SERVER] [INFO] Saving worlds
+2013-05-20 00:14:43 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-20 00:14:44 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-20 00:15:40 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-20 00:15:40 [SERVER] [INFO] Generating keypair
+2013-05-20 00:15:40 [SERVER] [INFO] Preparing start region for level 0
+2013-05-20 00:15:41 [SERVER] [INFO] Preparing spawn area: 94%
+2013-05-20 00:15:42 [SERVER] [INFO] Player542[/127.0.0.1:0] logged in with entity id 55 at (-895.9162098344572, 4.0, 423.34170847661744)
+2013-05-20 00:16:15 [SERVER] [INFO] Saving and pausing game...
+2013-05-20 00:16:18 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-20 00:16:19 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-20 00:16:19 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-20 00:16:19 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-20 00:17:10 [SERVER] [INFO] Saving and pausing game...
+2013-05-20 00:17:11 [SERVER] [INFO] Stopping server
+2013-05-20 06:14:50 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-20 06:14:50 [SERVER] [INFO] Generating keypair
+2013-05-20 06:14:50 [SERVER] [INFO] Converting map!
+2013-05-20 06:14:50 [SERVER] [INFO] Scanning folders...
+2013-05-20 06:14:50 [SERVER] [INFO] Total conversion count is 0
+2013-05-20 06:14:51 [SERVER] [INFO] Preparing start region for level 0
+2013-05-20 06:14:52 [SERVER] [INFO] Preparing spawn area: 10%
+2013-05-20 06:14:53 [SERVER] [INFO] Preparing spawn area: 29%
+2013-05-20 06:14:54 [SERVER] [INFO] Preparing spawn area: 45%
+2013-05-20 06:14:55 [SERVER] [INFO] Preparing spawn area: 60%
+2013-05-20 06:14:56 [SERVER] [INFO] Preparing spawn area: 75%
+2013-05-20 06:14:57 [SERVER] [INFO] Preparing spawn area: 92%
+2013-05-20 06:15:00 [SERVER] [INFO] Player527[/127.0.0.1:0] logged in with entity id 265 at (145.5, 67.0, 294.5)
+2013-05-20 06:15:00 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-20 06:15:06 [SERVER] [INFO] [Player527: Set own game mode to Creative Mode]
+2013-05-20 06:16:25 [SERVER] [INFO] Saving and pausing game...
+2013-05-20 06:16:25 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-05-20 06:16:25 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-05-20 06:16:25 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-05-20 06:16:43 [SERVER] [INFO] Stopping server
+2013-05-20 06:21:36 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-20 06:21:36 [SERVER] [INFO] Generating keypair
+2013-05-20 06:21:36 [SERVER] [INFO] Preparing start region for level 0
+2013-05-20 06:21:37 [SERVER] [INFO] Player38[/127.0.0.1:0] logged in with entity id 611 at (210.5046896824272, 79.0, 311.03822616210664)
+2013-05-20 06:21:39 [SERVER] [INFO] Stopping server
+2013-05-20 06:21:39 [SERVER] [INFO] Saving players
+2013-05-20 06:21:39 [SERVER] [INFO] Saving worlds
+2013-05-20 06:21:39 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-05-20 06:21:39 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-05-20 06:21:39 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-05-20 06:21:42 [SERVER] [INFO] Stopping server
+2013-05-20 06:22:13 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-20 06:22:13 [SERVER] [INFO] Generating keypair
+2013-05-20 06:22:14 [SERVER] [INFO] Preparing start region for level 0
+2013-05-20 06:22:15 [SERVER] [INFO] Player343[/127.0.0.1:0] logged in with entity id 516 at (210.5046896824272, 79.0, 311.03822616210664)
+2013-05-20 06:22:17 [SERVER] [INFO] Stopping server
+2013-05-20 06:22:17 [SERVER] [INFO] Saving players
+2013-05-20 06:22:17 [SERVER] [INFO] Saving worlds
+2013-05-20 06:22:17 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-05-20 06:22:17 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-05-20 06:22:17 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-05-20 06:32:35 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-20 06:32:35 [SERVER] [INFO] Generating keypair
+2013-05-20 06:32:35 [SERVER] [INFO] Preparing start region for level 0
+2013-05-20 06:32:36 [SERVER] [INFO] Player881[/127.0.0.1:0] logged in with entity id 531 at (210.5046896824272, 79.0, 311.03822616210664)
+2013-05-20 06:34:00 [SERVER] [INFO] Saving and pausing game...
+2013-05-20 06:34:00 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-05-20 06:34:01 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-05-20 06:34:01 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-05-20 06:34:01 [SERVER] [INFO] Stopping server
+2013-05-20 06:34:01 [SERVER] [INFO] Saving players
+2013-05-20 06:34:01 [SERVER] [INFO] Saving worlds
+2013-05-20 06:34:01 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-05-20 06:34:01 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-05-20 06:34:01 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-05-20 06:34:36 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-20 06:34:36 [SERVER] [INFO] Generating keypair
+2013-05-20 06:34:36 [SERVER] [INFO] Preparing start region for level 0
+2013-05-20 06:34:37 [SERVER] [INFO] Player465[/127.0.0.1:0] logged in with entity id 569 at (210.58926930164478, 79.0, 310.30000001192093)
+2013-05-20 06:35:15 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-20 06:35:15 [SERVER] [INFO] Generating keypair
+2013-05-20 06:35:15 [SERVER] [INFO] Preparing start region for level 0
+2013-05-20 06:35:16 [SERVER] [INFO] Player239[/127.0.0.1:0] logged in with entity id 569 at (210.58926930164478, 79.0, 310.30000001192093)
+2013-05-20 06:36:06 [SERVER] [INFO] Stopping server
+2013-05-20 06:36:06 [SERVER] [INFO] Saving players
+2013-05-20 06:36:06 [SERVER] [INFO] Saving worlds
+2013-05-20 06:36:06 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-05-20 06:36:06 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-05-20 06:36:06 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-05-20 06:36:20 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-20 06:36:20 [SERVER] [INFO] Generating keypair
+2013-05-20 06:36:20 [SERVER] [INFO] Preparing start region for level 0
+2013-05-20 06:36:21 [SERVER] [INFO] Player414[/127.0.0.1:0] logged in with entity id 597 at (210.58926930164478, 79.0, 310.30000001192093)
+2013-05-20 06:37:05 [SERVER] [INFO] Saving and pausing game...
+2013-05-20 06:37:05 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-05-20 06:37:06 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-05-20 06:37:06 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-05-20 06:37:59 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-20 06:37:59 [SERVER] [INFO] Generating keypair
+2013-05-20 06:38:00 [SERVER] [INFO] Preparing start region for level 0
+2013-05-20 06:38:01 [SERVER] [INFO] Player699[/127.0.0.1:0] logged in with entity id 540 at (210.6150334443123, 79.0, 310.5294786305766)
+2013-05-20 06:38:11 [SERVER] [INFO] Saving and pausing game...
+2013-05-20 06:38:11 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-05-20 06:38:12 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-05-20 06:38:12 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-05-20 06:39:10 [SERVER] [INFO] Saving and pausing game...
+2013-05-20 06:39:10 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-05-20 06:39:10 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-05-20 06:39:10 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-05-20 06:40:56 [SERVER] [INFO] Saving and pausing game...
+2013-05-20 06:40:56 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-05-20 06:40:56 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-05-20 06:40:56 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-05-20 06:42:00 [SERVER] [INFO] Saving and pausing game...
+2013-05-20 06:42:00 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-05-20 06:42:00 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-05-20 06:42:00 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-05-20 06:45:54 [SERVER] [INFO] Stopping server
+2013-05-20 07:21:54 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-20 07:21:54 [SERVER] [INFO] Generating keypair
+2013-05-20 07:21:55 [SERVER] [INFO] Preparing start region for level 0
+2013-05-20 07:21:55 [SERVER] [INFO] Player688[/127.0.0.1:0] logged in with entity id 416 at (210.6150334443123, 79.0, 310.5294786305766)
+2013-05-20 07:27:37 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-20 07:27:37 [SERVER] [INFO] Generating keypair
+2013-05-20 07:27:38 [SERVER] [INFO] Preparing start region for level 0
+2013-05-20 07:27:39 [SERVER] [INFO] Player27[/127.0.0.1:0] logged in with entity id 416 at (210.6150334443123, 79.0, 310.5294786305766)
+2013-05-20 07:27:56 [SERVER] [INFO] [Player27: Set the time to 0]
+2013-05-20 07:28:19 [SERVER] [INFO] Saving and pausing game...
+2013-05-20 07:28:19 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-05-20 07:28:19 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-05-20 07:28:19 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-05-20 07:28:22 [SERVER] [INFO] Stopping server
+2013-05-20 08:01:31 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-20 08:01:32 [SERVER] [INFO] Generating keypair
+2013-05-20 08:01:32 [SERVER] [INFO] Preparing start region for level 0
+2013-05-20 08:01:33 [SERVER] [INFO] Player256[/127.0.0.1:0] logged in with entity id 404 at (210.6150334443123, 79.0, 310.5294786305766)
+2013-05-20 08:01:35 [SERVER] [INFO] Saving and pausing game...
+2013-05-20 08:01:35 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-05-20 08:01:35 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-05-20 08:01:35 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-05-20 08:03:10 [SERVER] [INFO] Stopping server
+2013-05-20 08:03:10 [SERVER] [INFO] Saving players
+2013-05-20 08:03:10 [SERVER] [INFO] Saving worlds
+2013-05-20 08:03:10 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-05-20 08:03:10 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-05-20 08:03:10 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-05-20 08:03:42 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-20 08:03:43 [SERVER] [INFO] Generating keypair
+2013-05-20 08:03:44 [SERVER] [INFO] Preparing start region for level 0
+2013-05-20 08:03:44 [SERVER] [INFO] Player848[/127.0.0.1:0] logged in with entity id 399 at (210.8985971974145, 79.0, 311.34132659352366)
+2013-05-20 08:04:48 [SERVER] [INFO] Saving and pausing game...
+2013-05-20 08:04:48 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-05-20 08:04:48 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-05-20 08:04:48 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-05-20 08:04:49 [SERVER] [INFO] Stopping server
+2013-05-20 08:04:49 [SERVER] [INFO] Saving players
+2013-05-20 08:04:49 [SERVER] [INFO] Saving worlds
+2013-05-20 08:04:49 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-05-20 08:04:49 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-05-20 08:04:49 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-05-20 08:07:39 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-20 08:07:39 [SERVER] [INFO] Generating keypair
+2013-05-20 08:07:40 [SERVER] [INFO] Preparing start region for level 0
+2013-05-20 08:07:40 [SERVER] [INFO] Player946[/127.0.0.1:0] logged in with entity id 394 at (210.8985971974145, 79.0, 311.34132659352366)
+2013-05-20 08:07:54 [SERVER] [INFO] Saving and pausing game...
+2013-05-20 08:07:54 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-05-20 08:07:55 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-05-20 08:07:55 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-05-20 08:07:55 [SERVER] [INFO] Stopping server
+2013-05-20 08:07:55 [SERVER] [INFO] Saving players
+2013-05-20 08:07:56 [SERVER] [INFO] Saving worlds
+2013-05-20 08:07:56 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-05-20 08:07:56 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-05-20 08:07:56 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-05-20 08:08:54 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-20 08:08:54 [SERVER] [INFO] Generating keypair
+2013-05-20 08:08:55 [SERVER] [INFO] Preparing start region for level 0
+2013-05-20 08:08:56 [SERVER] [INFO] Player949[/127.0.0.1:0] logged in with entity id 391 at (210.48201606342326, 79.0, 311.2764493966424)
+2013-05-20 08:10:36 [SERVER] [INFO] Saving and pausing game...
+2013-05-20 08:10:36 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-05-20 08:10:40 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-05-20 08:10:40 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-05-20 08:10:40 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-20 22:14:24 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-20 22:14:24 [SERVER] [INFO] Generating keypair
+2013-05-20 22:14:25 [SERVER] [INFO] Preparing start region for level 0
+2013-05-20 22:14:26 [SERVER] [INFO] Preparing spawn area: 37%
+2013-05-20 22:14:28 [SERVER] [INFO] Player496[/127.0.0.1:0] logged in with entity id 376 at (210.48201606342326, 79.0, 311.2764493966424)
+2013-05-20 22:16:58 [SERVER] [INFO] Stopping server
+2013-05-20 22:16:58 [SERVER] [INFO] Saving players
+2013-05-20 22:19:19 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-20 22:19:19 [SERVER] [INFO] Generating keypair
+2013-05-20 22:19:20 [SERVER] [INFO] Preparing start region for level 0
+2013-05-20 22:19:21 [SERVER] [INFO] Player844[/127.0.0.1:0] logged in with entity id 380 at (212.5600627264187, 80.0, 309.7823855801831)
+2013-05-20 22:20:53 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-20 22:22:23 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-20 22:26:53 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-20 22:28:23 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-20 22:31:29 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-20 22:34:21 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-20 22:34:21 [SERVER] [INFO] Generating keypair
+2013-05-20 22:34:22 [SERVER] [INFO] Preparing start region for level 0
+2013-05-20 22:34:23 [SERVER] [INFO] Preparing spawn area: 29%
+2013-05-20 22:34:24 [SERVER] [INFO] Player42[/127.0.0.1:0] logged in with entity id 393 at (211.9838183480533, 79.0, 312.25492552162365)
+2013-05-20 22:35:11 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-20 22:35:58 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-20 22:35:58 [SERVER] [INFO] [Player42: Set own game mode to Survival Mode]
+2013-05-20 22:36:53 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-20 22:38:29 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-20 22:41:30 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-20 22:43:09 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-20 22:45:25 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-20 22:46:11 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-20 22:47:45 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-20 22:50:46 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-20 22:52:17 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-20 22:56:02 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-20 22:57:33 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-20 22:58:19 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-20 23:10:19 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-20 23:11:05 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-20 23:11:51 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-22 20:50:47 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-22 20:50:47 [SERVER] [INFO] Generating keypair
+2013-05-22 20:50:48 [SERVER] [INFO] Converting map!
+2013-05-22 20:50:48 [SERVER] [INFO] Scanning folders...
+2013-05-22 20:50:48 [SERVER] [INFO] Total conversion count is 0
+2013-05-22 20:50:53 [SERVER] [INFO] Preparing start region for level 0
+2013-05-22 20:50:54 [SERVER] [INFO] Preparing spawn area: 48%
+2013-05-22 20:50:55 [SERVER] [INFO] Preparing spawn area: 80%
+2013-05-22 20:50:56 [SERVER] [INFO] Player632[/127.0.0.1:0] logged in with entity id 0 at (423.5, 4.0, 432.5)
+2013-05-22 20:51:47 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-22 20:57:33 [SERVER] [INFO] Saving and pausing game...
+2013-05-22 20:57:33 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-22 20:57:33 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-22 20:57:34 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-22 20:57:42 [SERVER] [INFO] Saving and pausing game...
+2013-05-22 20:57:43 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-22 20:57:43 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-22 20:57:43 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-22 20:57:52 [SERVER] [INFO] Saving and pausing game...
+2013-05-22 20:57:52 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-22 20:57:54 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-22 20:57:54 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-22 20:57:57 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-05-22 20:58:00 [SERVER] [INFO] Saving and pausing game...
+2013-05-22 20:58:01 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-22 20:58:01 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-22 20:58:01 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-22 21:01:23 [SERVER] [INFO] Saving and pausing game...
+2013-05-22 21:01:23 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-22 21:01:23 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-22 21:01:23 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-22 21:04:48 [SERVER] [INFO] Saving and pausing game...
+2013-05-22 21:04:48 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-22 21:04:48 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-22 21:04:48 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-22 21:04:48 [SERVER] [INFO] Player632 lost connection: disconnect.quitting
+2013-05-22 21:04:49 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2013-05-22 21:04:49 [SERVER] [INFO] Stopping server
+2013-05-22 21:04:49 [SERVER] [INFO] Saving players
+2013-05-22 21:04:49 [SERVER] [INFO] Saving worlds
+2013-05-22 21:04:49 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-22 21:04:49 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-22 21:04:49 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-31 01:09:03 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-05-31 01:09:04 [SERVER] [INFO] Generating keypair
+2013-05-31 01:09:06 [SERVER] [INFO] Preparing start region for level 0
+2013-05-31 01:09:07 [SERVER] [INFO] Preparing spawn area: 63%
+2013-05-31 01:09:07 [SERVER] [INFO] Player919[/127.0.0.1:0] logged in with entity id 101 at (424.2709034373998, 4.0, 432.94367895161866)
+2013-05-31 01:13:55 [SERVER] [INFO] Saving and pausing game...
+2013-05-31 01:13:55 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-05-31 01:13:55 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-05-31 01:13:55 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-05-31 01:13:57 [SERVER] [INFO] Stopping server
+2013-06-13 14:47:13 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-13 14:47:13 [SERVER] [INFO] Generating keypair
+2013-06-13 14:47:13 [SERVER] [INFO] Preparing start region for level 0
+2013-06-13 14:47:14 [SERVER] [INFO] Player152[/127.0.0.1:0] logged in with entity id 100 at (424.2709034373998, 4.0, 432.94367895161866)
+2013-06-13 14:54:34 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-13 14:54:34 [SERVER] [INFO] Generating keypair
+2013-06-13 14:54:35 [SERVER] [INFO] Preparing start region for level 0
+2013-06-13 14:54:36 [SERVER] [INFO] Player522[/127.0.0.1:0] logged in with entity id 385 at (210.73850293275981, 79.0, 312.19965015098853)
+2013-06-13 14:54:57 [SERVER] [INFO] Stopping server
+2013-06-13 14:54:57 [SERVER] [INFO] Saving players
+2013-06-14 07:53:14 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-14 07:53:14 [SERVER] [INFO] Generating keypair
+2013-06-14 07:53:14 [SERVER] [INFO] Preparing start region for level 0
+2013-06-14 07:53:15 [SERVER] [INFO] Player743[/127.0.0.1:0] logged in with entity id 387 at (212.44159702734578, 79.0, 311.96884758272716)
+2013-06-14 07:53:25 [SERVER] [INFO] Saving and pausing game...
+2013-06-14 07:53:25 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-14 07:53:25 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-14 07:53:25 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-14 07:53:26 [SERVER] [INFO] Player743 lost connection: disconnect.quitting
+2013-06-14 07:53:26 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2013-06-14 07:53:26 [SERVER] [INFO] Stopping server
+2013-06-14 07:53:26 [SERVER] [INFO] Saving players
+2013-06-14 07:53:26 [SERVER] [INFO] Saving worlds
+2013-06-14 07:53:26 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-14 07:53:26 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-14 07:53:26 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-14 07:55:41 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-14 07:55:41 [SERVER] [INFO] Generating keypair
+2013-06-14 07:55:41 [SERVER] [INFO] Preparing start region for level 0
+2013-06-14 07:55:42 [SERVER] [INFO] Player251[/127.0.0.1:0] logged in with entity id 386 at (212.44159702734578, 79.0, 311.96884758272716)
+2013-06-14 07:55:47 [SERVER] [INFO] Saving and pausing game...
+2013-06-14 07:55:47 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-14 07:55:48 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-14 07:55:48 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-14 07:55:50 [SERVER] [INFO] [Player251: Set the time to 0]
+2013-06-14 07:56:24 [SERVER] [INFO] Saving and pausing game...
+2013-06-14 07:56:24 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-14 07:56:24 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-14 07:56:24 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-14 07:56:25 [SERVER] [INFO] Stopping server
+2013-06-14 07:56:25 [SERVER] [INFO] Saving players
+2013-06-14 07:56:25 [SERVER] [INFO] Saving worlds
+2013-06-14 07:56:25 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-14 07:56:25 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-14 07:56:25 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-14 07:58:29 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-14 07:58:29 [SERVER] [INFO] Generating keypair
+2013-06-14 07:58:29 [SERVER] [INFO] Preparing start region for level 0
+2013-06-14 07:58:30 [SERVER] [INFO] Player570[/127.0.0.1:0] logged in with entity id 383 at (212.3518587606898, 79.0, 311.7393249135111)
+2013-06-14 07:58:34 [SERVER] [INFO] Stopping server
+2013-06-14 07:58:34 [SERVER] [INFO] Saving players
+2013-06-14 07:58:34 [SERVER] [INFO] Saving worlds
+2013-06-14 07:58:34 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-14 07:58:35 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-14 07:58:35 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-14 08:00:18 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-14 08:00:18 [SERVER] [INFO] Generating keypair
+2013-06-14 08:00:18 [SERVER] [INFO] Preparing start region for level 0
+2013-06-14 08:00:19 [SERVER] [INFO] Player592[/127.0.0.1:0] logged in with entity id 382 at (212.3518587606898, 79.0, 311.7393249135111)
+2013-06-14 08:14:59 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-14 08:14:59 [SERVER] [INFO] Generating keypair
+2013-06-14 08:15:00 [SERVER] [INFO] Preparing start region for level 0
+2013-06-14 08:15:01 [SERVER] [INFO] Player798[/127.0.0.1:0] logged in with entity id 389 at (212.3518587606898, 79.0, 311.7393249135111)
+2013-06-14 08:15:05 [SERVER] [INFO] Stopping server
+2013-06-14 08:15:05 [SERVER] [INFO] Saving players
+2013-06-14 08:15:05 [SERVER] [INFO] Saving worlds
+2013-06-14 08:15:05 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-14 08:15:06 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-14 08:15:06 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-14 08:20:30 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-14 08:20:30 [SERVER] [INFO] Generating keypair
+2013-06-14 08:20:30 [SERVER] [INFO] Preparing start region for level 0
+2013-06-14 08:20:31 [SERVER] [INFO] Player355[/127.0.0.1:0] logged in with entity id 389 at (212.5824551745364, 79.0, 311.7517655907583)
+2013-06-14 08:20:34 [SERVER] [INFO] Stopping server
+2013-06-14 08:20:34 [SERVER] [INFO] Saving players
+2013-06-14 08:20:34 [SERVER] [INFO] Saving worlds
+2013-06-14 08:20:34 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-14 08:20:35 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-14 08:20:35 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-14 08:26:10 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-14 08:26:10 [SERVER] [INFO] Generating keypair
+2013-06-14 08:26:10 [SERVER] [INFO] Preparing start region for level 0
+2013-06-14 08:26:11 [SERVER] [INFO] Player840[/127.0.0.1:0] logged in with entity id 389 at (212.5824551745364, 79.0, 311.7517655907583)
+2013-06-14 08:26:18 [SERVER] [INFO] Stopping server
+2013-06-14 08:26:18 [SERVER] [INFO] Saving players
+2013-06-14 08:26:18 [SERVER] [INFO] Saving worlds
+2013-06-14 08:26:18 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-14 08:26:18 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-14 08:26:18 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-14 08:39:07 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-14 08:39:07 [SERVER] [INFO] Generating keypair
+2013-06-14 08:39:07 [SERVER] [INFO] Preparing start region for level 0
+2013-06-14 08:39:08 [SERVER] [INFO] Player512[/127.0.0.1:0] logged in with entity id 390 at (212.5824551745364, 79.0, 311.7517655907583)
+2013-06-14 08:39:12 [SERVER] [INFO] Stopping server
+2013-06-14 08:39:12 [SERVER] [INFO] Saving players
+2013-06-14 08:39:12 [SERVER] [INFO] Saving worlds
+2013-06-14 08:39:12 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-14 08:39:12 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-14 08:39:12 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-14 08:40:28 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-14 08:40:28 [SERVER] [INFO] Generating keypair
+2013-06-14 08:40:29 [SERVER] [INFO] Preparing start region for level 0
+2013-06-14 08:40:30 [SERVER] [INFO] Player483[/127.0.0.1:0] logged in with entity id 390 at (212.5824551745364, 79.0, 311.7517655907583)
+2013-06-14 08:40:34 [SERVER] [INFO] Stopping server
+2013-06-14 08:40:34 [SERVER] [INFO] Saving players
+2013-06-14 08:40:34 [SERVER] [INFO] Saving worlds
+2013-06-14 08:40:34 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-14 08:40:34 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-14 08:40:34 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-14 12:25:38 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-14 12:25:38 [SERVER] [INFO] Generating keypair
+2013-06-14 12:25:38 [SERVER] [INFO] Preparing start region for level 0
+2013-06-14 12:25:39 [SERVER] [INFO] Player774[/127.0.0.1:0] logged in with entity id 390 at (212.5824551745364, 79.0, 311.7517655907583)
+2013-06-14 12:25:44 [SERVER] [INFO] Stopping server
+2013-06-14 12:25:44 [SERVER] [INFO] Saving players
+2013-06-14 12:25:44 [SERVER] [INFO] Saving worlds
+2013-06-14 12:25:44 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-14 12:25:44 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-14 12:25:44 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-14 12:57:12 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-14 12:57:12 [SERVER] [INFO] Generating keypair
+2013-06-14 12:57:12 [SERVER] [INFO] Preparing start region for level 0
+2013-06-14 12:57:13 [SERVER] [INFO] Player439[/127.0.0.1:0] logged in with entity id 389 at (212.5824551745364, 79.0, 311.7517655907583)
+2013-06-14 12:57:18 [SERVER] [INFO] Stopping server
+2013-06-14 12:57:18 [SERVER] [INFO] Saving players
+2013-06-14 12:57:18 [SERVER] [INFO] Saving worlds
+2013-06-14 12:57:18 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-14 12:57:18 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-14 12:57:18 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-14 12:58:52 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-14 12:58:52 [SERVER] [INFO] Generating keypair
+2013-06-14 12:58:52 [SERVER] [INFO] Preparing start region for level 0
+2013-06-14 12:58:53 [SERVER] [INFO] Player250[/127.0.0.1:0] logged in with entity id 388 at (212.5824551745364, 79.0, 311.7517655907583)
+2013-06-14 12:58:57 [SERVER] [INFO] Stopping server
+2013-06-14 12:58:57 [SERVER] [INFO] Saving players
+2013-06-14 12:58:57 [SERVER] [INFO] Saving worlds
+2013-06-14 12:58:57 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-14 12:58:57 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-14 12:58:57 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-16 22:42:12 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-16 22:42:12 [SERVER] [INFO] Generating keypair
+2013-06-16 22:42:12 [SERVER] [INFO] Preparing start region for level 0
+2013-06-16 22:42:13 [SERVER] [INFO] Preparing spawn area: 97%
+2013-06-16 22:42:13 [SERVER] [INFO] Player298[/127.0.0.1:0] logged in with entity id 388 at (212.5824551745364, 79.0, 311.7517655907583)
+2013-06-16 22:42:14 [SERVER] [INFO] Saving and pausing game...
+2013-06-16 22:42:14 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-16 22:42:15 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-16 22:42:15 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-16 22:52:47 [SERVER] [WARNING] The save is being accessed from another location, aborting
+2013-06-16 22:53:32 [SERVER] [WARNING] The save is being accessed from another location, aborting
+2013-06-16 22:54:07 [SERVER] [INFO] Stopping server
+2013-06-16 22:59:32 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-16 22:59:32 [SERVER] [INFO] Generating keypair
+2013-06-16 22:59:32 [SERVER] [INFO] Preparing start region for level 0
+2013-06-16 22:59:33 [SERVER] [INFO] Player352[/127.0.0.1:0] logged in with entity id 385 at (212.26822753847756, 79.0, 312.0298392689958)
+2013-06-16 22:59:51 [SERVER] [INFO] [Player352: Set own game mode to Survival Mode]
+2013-06-16 22:59:56 [SERVER] [INFO] [Player352: Set own game mode to Creative Mode]
+2013-06-16 23:05:40 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-16 23:05:40 [SERVER] [INFO] Generating keypair
+2013-06-16 23:05:41 [SERVER] [INFO] Preparing start region for level 0
+2013-06-16 23:05:42 [SERVER] [INFO] Player521[/127.0.0.1:0] logged in with entity id 380 at (212.26822753847756, 79.0, 312.0298392689958)
+2013-06-16 23:05:48 [SERVER] [INFO] Saving and pausing game...
+2013-06-16 23:05:48 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-16 23:05:48 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-16 23:05:48 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-16 23:07:47 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-16 23:07:47 [SERVER] [INFO] Generating keypair
+2013-06-16 23:07:47 [SERVER] [INFO] Preparing start region for level 0
+2013-06-16 23:07:48 [SERVER] [INFO] Player956[/127.0.0.1:0] logged in with entity id 376 at (212.26822753847756, 79.0, 312.0298392689958)
+2013-06-16 23:09:58 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-16 23:09:58 [SERVER] [INFO] Generating keypair
+2013-06-16 23:09:59 [SERVER] [INFO] Preparing start region for level 0
+2013-06-16 23:09:59 [SERVER] [INFO] Player653[/127.0.0.1:0] logged in with entity id 376 at (212.26822753847756, 79.0, 312.0298392689958)
+2013-06-16 23:10:11 [SERVER] [INFO] Saving and pausing game...
+2013-06-16 23:10:11 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-16 23:10:11 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-16 23:10:11 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-16 23:13:38 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-16 23:13:38 [SERVER] [INFO] Generating keypair
+2013-06-16 23:13:39 [SERVER] [INFO] Preparing start region for level 0
+2013-06-16 23:13:39 [SERVER] [INFO] Player187[/127.0.0.1:0] logged in with entity id 375 at (212.26822753847756, 79.0, 312.0298392689958)
+2013-06-16 23:13:57 [SERVER] [INFO] Saving and pausing game...
+2013-06-16 23:13:57 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-16 23:13:57 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-16 23:13:57 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-16 23:28:29 [SERVER] [INFO] [Player187: Set own game mode to Survival Mode]
+2013-06-16 23:32:01 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-16 23:32:01 [SERVER] [INFO] Generating keypair
+2013-06-16 23:32:01 [SERVER] [INFO] Preparing start region for level 0
+2013-06-16 23:32:02 [SERVER] [INFO] Player741[/127.0.0.1:0] logged in with entity id 387 at (212.26822753847756, 79.0, 312.0298392689958)
+2013-06-16 23:32:18 [SERVER] [INFO] [Player741: Set own game mode to Creative Mode]
+2013-06-16 23:36:14 [SERVER] [INFO] Saving and pausing game...
+2013-06-16 23:36:14 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-16 23:36:14 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-16 23:36:14 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-17 00:21:06 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-06-17 00:21:13 [SERVER] [WARNING] Time ran backwards! Did the system time change?
+2013-06-17 08:36:59 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-17 08:36:59 [SERVER] [INFO] Generating keypair
+2013-06-17 08:36:59 [SERVER] [INFO] Preparing start region for level 0
+2013-06-17 08:37:00 [SERVER] [INFO] Player584[/127.0.0.1:0] logged in with entity id 389 at (212.26822753847756, 79.0, 312.0298392689958)
+2013-06-17 08:37:32 [SERVER] [INFO] Saving and pausing game...
+2013-06-17 08:37:32 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-17 08:37:32 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-17 08:37:32 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-17 08:39:14 [SERVER] [INFO] Saving and pausing game...
+2013-06-17 08:39:14 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-17 08:39:14 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-17 08:39:14 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-17 08:42:55 [SERVER] [INFO] Stopping server
+2013-06-17 08:42:55 [SERVER] [INFO] Saving players
+2013-06-17 08:42:55 [SERVER] [INFO] Saving worlds
+2013-06-17 08:42:55 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-17 08:42:55 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-17 08:42:55 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-17 08:44:10 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-17 08:44:10 [SERVER] [INFO] Generating keypair
+2013-06-17 08:44:11 [SERVER] [INFO] Preparing start region for level 0
+2013-06-17 08:44:11 [SERVER] [INFO] Player892[/127.0.0.1:0] logged in with entity id 379 at (212.26822753847756, 79.0, 312.0298392689958)
+2013-06-17 08:44:18 [SERVER] [INFO] Stopping server
+2013-06-17 08:44:18 [SERVER] [INFO] Saving players
+2013-06-17 08:44:18 [SERVER] [INFO] Saving worlds
+2013-06-17 08:44:18 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-17 08:44:18 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-17 08:44:18 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-17 08:57:24 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-17 08:57:24 [SERVER] [INFO] Generating keypair
+2013-06-17 08:57:25 [SERVER] [INFO] Preparing start region for level 0
+2013-06-17 08:57:26 [SERVER] [INFO] Player378[/127.0.0.1:0] logged in with entity id 378 at (212.26822753847756, 79.0, 312.0298392689958)
+2013-06-17 08:59:26 [SERVER] [INFO] Saving and pausing game...
+2013-06-17 08:59:26 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-17 08:59:26 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-17 08:59:26 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-17 09:00:37 [SERVER] [INFO] Stopping server
+2013-06-17 09:00:37 [SERVER] [INFO] Saving players
+2013-06-17 09:00:37 [SERVER] [INFO] Saving worlds
+2013-06-17 09:00:37 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-17 09:00:38 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-17 09:00:38 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-17 09:03:57 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-17 09:03:57 [SERVER] [INFO] Generating keypair
+2013-06-17 09:03:58 [SERVER] [INFO] Preparing start region for level 0
+2013-06-17 09:03:58 [SERVER] [INFO] Player875[/127.0.0.1:0] logged in with entity id 381 at (213.01125986455602, 79.0, 310.6594996368025)
+2013-06-17 09:05:09 [SERVER] [INFO] Stopping server
+2013-06-17 09:05:09 [SERVER] [INFO] Saving players
+2013-06-17 09:05:09 [SERVER] [INFO] Saving worlds
+2013-06-17 09:05:09 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-17 09:05:09 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-17 09:05:09 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-17 09:30:28 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-17 09:30:28 [SERVER] [INFO] Generating keypair
+2013-06-17 09:30:28 [SERVER] [INFO] Preparing start region for level 0
+2013-06-17 09:30:29 [SERVER] [INFO] Player387[/127.0.0.1:0] logged in with entity id 382 at (211.70988589097368, 79.0, 311.4503468519571)
+2013-06-17 09:30:33 [SERVER] [INFO] [Player387: Set the time to 0]
+2013-06-17 09:30:34 [SERVER] [INFO] Saving and pausing game...
+2013-06-17 09:30:34 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-17 09:30:34 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-17 09:30:34 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-17 09:41:14 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-17 09:41:14 [SERVER] [INFO] Generating keypair
+2013-06-17 09:41:15 [SERVER] [INFO] Preparing start region for level 0
+2013-06-17 09:41:15 [SERVER] [INFO] Player453[/127.0.0.1:0] logged in with entity id 377 at (212.96392332395033, 79.0, 310.461399254608)
+2013-06-17 09:43:14 [SERVER] [INFO] Saving and pausing game...
+2013-06-17 09:43:14 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-17 09:43:14 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-17 09:43:14 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-17 09:45:10 [SERVER] [INFO] Saving and pausing game...
+2013-06-17 09:45:10 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-17 09:45:10 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-17 09:45:10 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-17 09:45:11 [SERVER] [INFO] Stopping server
+2013-06-17 09:45:29 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-17 09:45:29 [SERVER] [INFO] Generating keypair
+2013-06-17 09:45:29 [SERVER] [INFO] Preparing start region for level 0
+2013-06-17 09:45:30 [SERVER] [INFO] Player733[/127.0.0.1:0] logged in with entity id 380 at (211.2477505597145, 79.0, 310.4205900483218)
+2013-06-17 09:45:49 [SERVER] [INFO] Saving and pausing game...
+2013-06-17 09:45:49 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-17 09:45:49 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-17 09:45:49 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-17 09:46:23 [SERVER] [INFO] Saving and pausing game...
+2013-06-17 09:46:23 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-17 09:46:23 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-17 09:46:23 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-17 09:46:43 [SERVER] [INFO] Saving and pausing game...
+2013-06-17 09:46:43 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-17 09:46:43 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-17 09:46:43 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-17 09:47:08 [SERVER] [INFO] Saving and pausing game...
+2013-06-17 09:47:08 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-17 09:47:08 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-17 09:47:08 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-17 09:48:57 [SERVER] [INFO] Saving and pausing game...
+2013-06-17 09:48:57 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-17 09:48:57 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-17 09:48:57 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-17 09:51:10 [SERVER] [INFO] Saving and pausing game...
+2013-06-17 09:51:10 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-17 09:51:10 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-17 09:51:10 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-17 10:00:05 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-17 10:00:05 [SERVER] [INFO] Generating keypair
+2013-06-17 10:00:05 [SERVER] [INFO] Preparing start region for level 0
+2013-06-17 10:00:06 [SERVER] [INFO] Player842[/127.0.0.1:0] logged in with entity id 380 at (210.93389092243112, 79.0, 311.6259367536408)
+2013-06-17 10:08:46 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-17 10:08:46 [SERVER] [INFO] Generating keypair
+2013-06-17 10:08:46 [SERVER] [INFO] Preparing start region for level 0
+2013-06-17 10:08:47 [SERVER] [INFO] Player861[/127.0.0.1:0] logged in with entity id 380 at (210.93389092243112, 79.0, 311.6259367536408)
+2013-06-17 10:10:31 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-17 10:10:31 [SERVER] [INFO] Generating keypair
+2013-06-17 10:10:32 [SERVER] [INFO] Preparing start region for level 0
+2013-06-17 10:10:33 [SERVER] [INFO] Player78[/127.0.0.1:0] logged in with entity id 379 at (210.93389092243112, 79.0, 311.6259367536408)
+2013-06-17 10:10:54 [SERVER] [INFO] Stopping server
+2013-06-17 10:10:54 [SERVER] [INFO] Saving players
+2013-06-17 10:10:54 [SERVER] [INFO] Saving worlds
+2013-06-17 10:10:54 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-17 10:10:54 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-17 10:10:54 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-17 15:35:13 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-17 15:35:13 [SERVER] [INFO] Generating keypair
+2013-06-17 15:35:13 [SERVER] [INFO] Preparing start region for level 0
+2013-06-17 15:35:14 [SERVER] [INFO] Preparing spawn area: 91%
+2013-06-17 15:35:14 [SERVER] [INFO] Player26[/127.0.0.1:0] logged in with entity id 378 at (210.93389092243112, 79.0, 311.6259367536408)
+2013-06-17 15:35:35 [SERVER] [INFO] Stopping server
+2013-06-17 15:35:35 [SERVER] [INFO] Saving players
+2013-06-17 15:36:51 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-17 15:36:51 [SERVER] [INFO] Generating keypair
+2013-06-17 15:36:51 [SERVER] [INFO] Preparing start region for level 0
+2013-06-17 15:36:52 [SERVER] [INFO] Player438[/127.0.0.1:0] logged in with entity id 378 at (211.5652161546368, 79.0, 311.7037590225986)
+2013-06-17 15:39:01 [SERVER] [INFO] Saving and pausing game...
+2013-06-17 15:39:01 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-17 15:39:01 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-17 15:39:01 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-17 15:39:39 [SERVER] [INFO] Saving and pausing game...
+2013-06-17 15:39:39 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-17 15:39:39 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-17 15:39:39 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-17 15:40:26 [SERVER] [INFO] Saving and pausing game...
+2013-06-17 15:40:26 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-17 15:40:26 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-17 15:40:26 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-17 15:40:27 [SERVER] [INFO] Stopping server
+2013-06-17 15:40:27 [SERVER] [INFO] Saving players
+2013-06-17 15:40:27 [SERVER] [INFO] Saving worlds
+2013-06-17 15:40:27 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-17 15:40:27 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-17 15:40:27 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-18 00:31:12 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-18 00:31:12 [SERVER] [INFO] Generating keypair
+2013-06-18 00:31:13 [SERVER] [INFO] Preparing start region for level 0
+2013-06-18 00:31:14 [SERVER] [INFO] Player375[/127.0.0.1:0] logged in with entity id 92 at (876.312109118879, 4.0, -32.285986050513806)
+2013-06-18 00:31:33 [SERVER] [INFO] Saving and pausing game...
+2013-06-18 00:31:33 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-06-18 00:31:33 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-06-18 00:31:33 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-06-18 01:47:57 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-06-18 01:48:04 [SERVER] [WARNING] Time ran backwards! Did the system time change?
+2013-06-18 01:49:10 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-06-18 01:53:57 [SERVER] [INFO] Stopping server
+2013-06-18 01:53:57 [SERVER] [INFO] Saving players
+2013-06-18 01:55:02 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-18 01:55:02 [SERVER] [INFO] Generating keypair
+2013-06-18 01:55:03 [SERVER] [INFO] Preparing start region for level 0
+2013-06-18 01:55:04 [SERVER] [INFO] Player29[/127.0.0.1:0] logged in with entity id 93 at (876.5809042910917, 4.0, -31.791839432893426)
+2013-06-18 02:01:05 [SERVER] [INFO] Stopping server
+2013-06-18 02:01:05 [SERVER] [INFO] Saving players
+2013-06-18 02:01:05 [SERVER] [INFO] Saving worlds
+2013-06-18 02:01:05 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-06-18 02:01:05 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-06-18 02:01:05 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-06-18 09:16:02 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-18 09:16:02 [SERVER] [INFO] Generating keypair
+2013-06-18 09:16:02 [SERVER] [INFO] Preparing start region for level 0
+2013-06-18 09:16:03 [SERVER] [INFO] Player187[/127.0.0.1:0] logged in with entity id 37 at (876.3184583892466, 4.0, -32.12606756181699)
+2013-06-18 10:06:05 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-18 10:06:05 [SERVER] [INFO] Generating keypair
+2013-06-18 10:06:05 [SERVER] [INFO] Converting map!
+2013-06-18 10:06:05 [SERVER] [INFO] Scanning folders...
+2013-06-18 10:06:05 [SERVER] [INFO] Total conversion count is 0
+2013-06-18 10:06:07 [SERVER] [INFO] Preparing start region for level 0
+2013-06-18 10:06:08 [SERVER] [INFO] Preparing spawn area: 45%
+2013-06-18 10:06:09 [SERVER] [INFO] Preparing spawn area: 93%
+2013-06-18 10:06:09 [SERVER] [INFO] Player679[/127.0.0.1:0] logged in with entity id 40 at (1407.5, 4.0, 27.5)
+2013-06-18 10:10:09 [SERVER] [INFO] Saving and pausing game...
+2013-06-18 10:10:09 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-06-18 10:10:09 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-06-18 10:10:09 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-06-18 10:10:17 [SERVER] [INFO] Saving and pausing game...
+2013-06-18 10:10:17 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-06-18 10:10:17 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-06-18 10:10:17 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-06-18 10:10:25 [SERVER] [INFO] Saving and pausing game...
+2013-06-18 10:10:25 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-06-18 10:10:25 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-06-18 10:10:25 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-06-18 10:10:28 [SERVER] [INFO] Saving and pausing game...
+2013-06-18 10:10:28 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-06-18 10:10:28 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-06-18 10:10:28 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-06-18 10:10:34 [SERVER] [INFO] Saving and pausing game...
+2013-06-18 10:10:34 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-06-18 10:10:34 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-06-18 10:10:34 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-06-18 10:10:38 [SERVER] [INFO] Saving and pausing game...
+2013-06-18 10:10:38 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-06-18 10:10:38 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-06-18 10:10:38 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-06-18 10:10:47 [SERVER] [INFO] Saving and pausing game...
+2013-06-18 10:10:47 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-06-18 10:10:47 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-06-18 10:10:47 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-06-18 10:12:37 [SERVER] [INFO] Stopping server
+2013-06-18 10:39:20 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-18 10:39:20 [SERVER] [INFO] Generating keypair
+2013-06-18 10:39:20 [SERVER] [INFO] Preparing start region for level 0
+2013-06-18 10:39:22 [SERVER] [INFO] Player86[/127.0.0.1:0] logged in with entity id 7 at (1406.24009521124, 5.0, 31.538996864164822)
+2013-06-18 10:40:33 [SERVER] [INFO] [Player86: Set the time to 0]
+2013-06-19 09:35:54 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-19 09:35:54 [SERVER] [INFO] Generating keypair
+2013-06-19 09:35:54 [SERVER] [INFO] Preparing start region for level 0
+2013-06-19 09:35:55 [SERVER] [INFO] Player786[/127.0.0.1:0] logged in with entity id 20 at (1405.8085993468408, 5.0, 32.07273841531915)
+2013-06-19 09:46:08 [SERVER] [INFO] [Player786: Set own game mode to Survival Mode]
+2013-06-19 09:47:03 [SERVER] [INFO] Saving and pausing game...
+2013-06-19 09:47:03 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-06-19 09:47:03 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-06-19 09:47:03 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-06-19 09:47:05 [SERVER] [INFO] Saving and pausing game...
+2013-06-19 09:47:05 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-06-19 09:47:05 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-06-19 09:47:05 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-06-19 09:47:54 [SERVER] [INFO] Saving and pausing game...
+2013-06-19 09:47:54 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-06-19 09:47:54 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-06-19 09:47:54 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-06-19 09:47:57 [SERVER] [INFO] Stopping server
+2013-06-19 09:48:12 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-19 09:48:12 [SERVER] [INFO] Generating keypair
+2013-06-19 09:48:13 [SERVER] [INFO] Preparing start region for level 0
+2013-06-19 09:48:13 [SERVER] [INFO] Player274[/127.0.0.1:0] logged in with entity id 100 at (1405.5535867859091, 5.0, 30.300000011920947)
+2013-06-19 09:48:20 [SERVER] [INFO] Saving and pausing game...
+2013-06-19 09:48:20 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-06-19 09:48:20 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-06-19 09:48:20 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-06-19 09:58:20 [SERVER] [INFO] Saving and pausing game...
+2013-06-19 09:58:20 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-06-19 09:58:20 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-06-19 09:58:20 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-06-19 09:58:21 [SERVER] [INFO] Player274 lost connection: disconnect.quitting
+2013-06-19 09:58:21 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2013-06-19 09:58:21 [SERVER] [INFO] Stopping server
+2013-06-19 09:58:21 [SERVER] [INFO] Saving players
+2013-06-19 09:58:21 [SERVER] [INFO] Saving worlds
+2013-06-19 09:58:21 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-06-19 09:58:22 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-06-19 09:58:22 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-06-25 09:31:40 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-06-25 09:31:40 [SERVER] [INFO] Generating keypair
+2013-06-25 09:31:40 [SERVER] [INFO] Converting map!
+2013-06-25 09:31:40 [SERVER] [INFO] Scanning folders...
+2013-06-25 09:31:40 [SERVER] [INFO] Total conversion count is 0
+2013-06-25 09:31:41 [SERVER] [INFO] Preparing start region for level 0
+2013-06-25 09:31:42 [SERVER] [INFO] Preparing spawn area: 22%
+2013-06-25 09:31:43 [SERVER] [INFO] Preparing spawn area: 50%
+2013-06-25 09:31:44 [SERVER] [INFO] Preparing spawn area: 74%
+2013-06-25 09:31:45 [SERVER] [INFO] Preparing spawn area: 98%
+2013-06-25 09:31:45 [SERVER] [INFO] Player342[/127.0.0.1:0] logged in with entity id 209 at (-58.5, 68.0, 257.5)
+2013-06-25 09:31:55 [SERVER] [INFO] Saving and pausing game...
+2013-06-25 09:31:55 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-06-25 09:31:57 [SERVER] [INFO] Started on 192.168.43.5:49361
+2013-06-25 09:31:57 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-06-25 09:31:57 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-06-25 09:31:57 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-09-12 09:26:29 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-09-12 09:26:29 [SERVER] [INFO] Generating keypair
+2013-09-12 09:26:29 [SERVER] [INFO] Preparing start region for level 0
+2013-09-12 09:26:30 [SERVER] [INFO] Player695[/127.0.0.1:0] logged in with entity id 41 at (1406.2368660626921, 5.0, 34.47256288483448)
+2013-09-12 09:26:51 [SERVER] [INFO] Saving and pausing game...
+2013-09-12 09:26:51 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-09-12 09:26:51 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-09-12 09:26:51 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-09-13 09:25:29 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-09-13 09:25:29 [SERVER] [INFO] Generating keypair
+2013-09-13 09:25:29 [SERVER] [INFO] Preparing start region for level 0
+2013-09-13 09:25:30 [SERVER] [INFO] Player694[/127.0.0.1:0] logged in with entity id 37 at (1406.5830074247015, 5.0, 33.239576019472295)
+2013-09-13 09:25:38 [SERVER] [INFO] Saving and pausing game...
+2013-09-13 09:25:38 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-09-13 09:25:38 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-09-13 09:25:38 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-09-13 09:25:51 [SERVER] [INFO] Stopping server
+2013-09-13 09:26:47 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-09-13 09:26:47 [SERVER] [INFO] Generating keypair
+2013-09-13 09:26:47 [SERVER] [INFO] Preparing start region for level 0
+2013-09-13 09:26:48 [SERVER] [INFO] Player883[/127.0.0.1:0] logged in with entity id 35 at (1408.2783660996613, 5.0, 31.748395622921535)
+2013-09-13 09:27:04 [SERVER] [INFO] Stopping server
+2013-09-13 09:27:04 [SERVER] [INFO] Saving players
+2013-09-13 09:27:04 [SERVER] [INFO] Saving worlds
+2013-09-13 09:27:04 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-09-13 09:27:04 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-09-13 09:27:04 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-09-13 09:34:20 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-09-13 09:34:20 [SERVER] [INFO] Generating keypair
+2013-09-13 09:34:21 [SERVER] [INFO] Preparing start region for level 0
+2013-09-13 09:34:22 [SERVER] [INFO] Preparing spawn area: 98%
+2013-09-13 09:34:22 [SERVER] [INFO] Player766[/127.0.0.1:0] logged in with entity id 34 at (1408.7060860218469, 5.0, 31.186964295928952)
+2013-09-13 09:34:29 [SERVER] [INFO] Saving and pausing game...
+2013-09-13 09:34:29 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-09-13 09:34:29 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-09-13 09:34:29 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-09-13 09:34:57 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-09-13 09:34:57 [SERVER] [INFO] Generating keypair
+2013-09-13 09:34:57 [SERVER] [INFO] Preparing start region for level 0
+2013-09-13 09:34:58 [SERVER] [INFO] Player671[/127.0.0.1:0] logged in with entity id 35 at (1405.5458944232112, 5.0, 31.471721218970565)
+2013-09-13 09:35:03 [SERVER] [INFO] Saving and pausing game...
+2013-09-13 09:35:03 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-09-13 09:35:03 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-09-13 09:35:03 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-09-13 09:35:53 [SERVER] [INFO] Saving and pausing game...
+2013-09-13 09:35:53 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-09-13 09:35:53 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-09-13 09:35:53 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-09-13 09:42:12 [SERVER] [INFO] Stopping server
+2013-09-13 09:42:12 [SERVER] [INFO] Saving players
+2013-09-13 09:42:12 [SERVER] [INFO] Saving worlds
+2013-09-13 09:42:12 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-09-13 09:42:12 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-09-13 09:42:12 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End
+2013-09-13 09:43:20 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-09-13 09:43:20 [SERVER] [INFO] Generating keypair
+2013-09-13 09:43:20 [SERVER] [INFO] Preparing start region for level 0
+2013-09-13 09:43:21 [SERVER] [INFO] Player640[/127.0.0.1:0] logged in with entity id 29 at (1408.3875581437935, 5.0, 31.500203954299664)
+2013-09-13 09:43:30 [SERVER] [INFO] [Player640: Set own game mode to Survival Mode]
+2013-09-13 09:43:34 [SERVER] [INFO] [Player640: Set own game mode to Creative Mode]
+2013-09-13 09:44:33 [SERVER] [INFO] Saving and pausing game...
+2013-09-13 09:44:33 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Overworld
+2013-09-13 09:44:33 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/Nether
+2013-09-13 09:44:33 [SERVER] [INFO] Saving chunks for level 'gECON Test World'/The End

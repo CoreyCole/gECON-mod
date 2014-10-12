@@ -1,0 +1,48 @@
+---- Minecraft Crash Report ----
+// Everything's going to plan. No, really, that was supposed to happen.
+
+Time: 5/19/13 7:26 PM
+Description: Ticking memory connection
+
+java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.fastRemove(Unknown Source)
+	at java.util.ArrayList.remove(Unknown Source)
+	at net.minecraft.server.management.PlayerInstance.sendThisChunkToPlayer(PlayerInstance.java:60)
+	at net.minecraft.server.management.PlayerManager.removePlayer(PlayerManager.java:206)
+	at net.minecraft.server.management.ServerConfigurationManager.playerLoggedOut(ServerConfigurationManager.java:295)
+	at net.minecraft.network.NetServerHandler.handleErrorMessage(NetServerHandler.java:623)
+	at net.minecraft.network.MemoryConnection.processReadPackets(MemoryConnection.java:99)
+	at net.minecraft.network.NetServerHandler.networkTick(NetServerHandler.java:134)
+	at net.minecraft.network.NetworkListenThread.networkTick(NetworkListenThread.java:53)
+	at net.minecraft.server.integrated.IntegratedServerListenThread.networkTick(IntegratedServerListenThread.java:109)
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:675)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:571)
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:127)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:469)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.5.2
+	Operating System: Windows 7 (amd64) version 6.1
+	Java Version: 1.7.0_06, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 709992080 bytes (677 MB) / 1037959168 bytes (989 MB) up to 1037959168 bytes (989 MB)
+	JVM Flags: 3 total; -Xincgc -Xmx1024M -Xms1024M
+	AABB Pool Size: 973 (54488 bytes; 0 MB) allocated, 570 (31920 bytes; 0 MB) used
+	Suspicious classes: FML and Forge are installed
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v7.51 FML v5.2.2.684 Minecraft Forge 7.8.0.684 4 mods loaded, 4 mods active
+	mcp{7.44} [Minecraft Coder Pack] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	FML{5.2.2.684} [Forge Mod Loader] (coremods) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Forge{7.8.0.684} [Minecraft Forge] (coremods) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	woodnet_gECON{0.1a} [gECON Alpha] (bin) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 80 (4480 bytes; 0 MB) allocated, 60 (3360 bytes; 0 MB) used
+	Player Count: 0 / 8; []
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'fml,forge'

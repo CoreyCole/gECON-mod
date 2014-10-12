@@ -1,0 +1,76 @@
+---- Minecraft Crash Report ----
+// I feel sad now :(
+
+Time: 5/20/13 12:12 AM
+Description: Rendering screen
+
+java.lang.NullPointerException
+	at net.minecraft.inventory.Slot.getStack(Slot.java:88)
+	at net.minecraft.client.gui.inventory.GuiContainer.drawSlotInventory(GuiContainer.java:344)
+	at net.minecraft.client.gui.inventory.GuiContainer.drawScreen(GuiContainer.java:128)
+	at net.minecraft.client.renderer.EntityRenderer.updateCameraAndRender(EntityRenderer.java:1021)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:870)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:759)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at net.minecraft.inventory.Slot.getStack(Slot.java:88)
+	at net.minecraft.client.gui.inventory.GuiContainer.drawSlotInventory(GuiContainer.java:344)
+	at net.minecraft.client.gui.inventory.GuiContainer.drawScreen(GuiContainer.java:128)
+
+-- Screen render details --
+Details:
+	Screen name: gecon.mod.alpha.gui.GuiBank
+	Mouse location: Scaled: (213, 119). Absolute: (427, 240)
+	Screen size: Scaled: (427, 240). Absolute: (854, 480). Scale factor of 2
+
+-- Affected level --
+Details:
+	Level name: MpServer
+	All players: 1 total; [EntityClientPlayerMP['Player55'/54, l='MpServer', x=-895.92, y=5.62, z=423.34]]
+	Chunk stats: MultiplayerChunkCache: 275
+	Level seed: 0
+	Level generator: ID 01 - flat, ver 0. Features enabled: false
+	Level generator options: 
+	Level spawn location: World: (-889,4,426), Chunk: (at 7,0,10 in -56,26; contains blocks -896,0,416 to -881,255,431), Region: (-2,0; contains chunks -64,0 to -33,31, blocks -1024,0,0 to -513,255,511)
+	Level time: 192984 game time, 192984 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+	Forced entities: 30 total; [EntitySpider['Spider'/8, l='MpServer', x=-946.34, y=4.00, z=383.56], EntityItem['item.item.rottenFlesh'/9, l='MpServer', x=-954.19, y=4.13, z=403.63], EntityPig['Pig'/10, l='MpServer', x=-955.50, y=4.00, z=502.22], EntitySlime['Slime'/13, l='MpServer', x=-913.22, y=4.00, z=371.61], EntityItem['item.item.bone'/14, l='MpServer', x=-924.13, y=4.13, z=401.28], EntityItem['item.item.slimeball'/15, l='MpServer', x=-897.72, y=4.13, z=431.00], EntityItem['item.item.slimeball'/17, l='MpServer', x=-898.84, y=4.13, z=431.47], EntityItem['item.item.slimeball'/16, l='MpServer', x=-899.09, y=4.13, z=430.69], EntityItem['item.item.slimeball'/19, l='MpServer', x=-898.06, y=4.13, z=429.13], EntityItem['item.item.slimeball'/18, l='MpServer', x=-900.94, y=4.13, z=429.28], EntityItem['item.item.slimeball'/21, l='MpServer', x=-897.78, y=4.13, z=432.16], EntitySlime['Slime'/20, l='MpServer', x=-898.04, y=4.97, z=429.31], EntityItem['item.item.arrow'/23, l='MpServer', x=-885.13, y=4.13, z=388.69], EntityChicken['Chicken'/22, l='MpServer', x=-911.44, y=4.00, z=487.56], EntityCreeper['Creeper'/25, l='MpServer', x=-894.50, y=4.00, z=429.31], EntityItem['item.item.bone'/24, l='MpServer', x=-885.16, y=4.13, z=389.84], EntityItem['item.item.slimeball'/27, l='MpServer', x=-895.44, y=4.13, z=432.88], EntitySlime['Slime'/26, l='MpServer', x=-886.31, y=2.00, z=445.69], EntityItem['item.item.arrow'/29, l='MpServer', x=-877.81, y=4.13, z=413.75], EntityClientPlayerMP['Player55'/54, l='MpServer', x=-895.92, y=5.62, z=423.34], EntityCreeper['Creeper'/31, l='MpServer', x=-880.28, y=4.00, z=448.61], EntityItem['item.item.bone'/30, l='MpServer', x=-878.84, y=4.13, z=414.13], EntityChicken['Chicken'/35, l='MpServer', x=-854.56, y=4.00, z=484.66], EntitySlime['Slime'/32, l='MpServer', x=-870.46, y=4.00, z=478.16], EntityPig['Pig'/33, l='MpServer', x=-871.91, y=4.00, z=500.19], EntityPig['Pig'/38, l='MpServer', x=-841.81, y=4.00, z=443.88], EntityPig['Pig'/39, l='MpServer', x=-839.13, y=4.00, z=469.91], EntityPig['Pig'/42, l='MpServer', x=-821.12, y=4.00, z=489.72], EntityPig['Pig'/40, l='MpServer', x=-837.19, y=4.00, z=493.56], EntityPig['Pig'/41, l='MpServer', x=-840.78, y=4.00, z=498.91]]
+	Retry entities: 0 total; []
+Stacktrace:
+	at net.minecraft.client.multiplayer.WorldClient.addWorldInfoToCrashReport(WorldClient.java:441)
+	at net.minecraft.client.Minecraft.addGraphicsAndWorldToCrashReport(Minecraft.java:2413)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:775)
+	at java.lang.Thread.run(Unknown Source)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.5.2
+	Operating System: Windows 7 (amd64) version 6.1
+	Java Version: 1.7.0_06, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 843188256 bytes (804 MB) / 1037959168 bytes (989 MB) up to 1037959168 bytes (989 MB)
+	JVM Flags: 3 total; -Xincgc -Xmx1024M -Xms1024M
+	AABB Pool Size: 21638 (1211728 bytes; 1 MB) allocated, 476 (26656 bytes; 0 MB) used
+	Suspicious classes: FML and Forge are installed
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v7.51 FML v5.2.2.684 Minecraft Forge 7.8.0.684 4 mods loaded, 4 mods active
+	mcp{7.44} [Minecraft Coder Pack] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	FML{5.2.2.684} [Forge Mod Loader] (coremods) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Forge{7.8.0.684} [Minecraft Forge] (coremods) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	woodnet_gECON{0.1a} [gECON Alpha] (bin) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	LWJGL: 2.4.2
+	OpenGL: ATI Radeon HD 5800 Series GL version 4.2.12002 Compatibility Profile Context 9.12.0.0, ATI Technologies Inc.
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Texture Pack: Default
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 168 (9408 bytes; 0 MB) allocated, 104 (5824 bytes; 0 MB) used

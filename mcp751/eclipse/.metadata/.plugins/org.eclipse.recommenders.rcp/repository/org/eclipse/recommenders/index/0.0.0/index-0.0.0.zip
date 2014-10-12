@@ -1,0 +1,219 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Please Login</title>
+<style>
+.text3 {
+	FONT-SIZE: 12px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#000000;
+	text-decoration:none;
+}
+</style>
+
+<SCRIPT language=JavaScript>
+<!--
+
+function SetCookie(name, value, expires, path, domain, secure)
+{
+	var today = new Date();
+	today.setTime(today.getTime());
+
+	if(expires)
+	{
+		expires = expires * 1000 * 60 * 60 * 24;
+	}
+
+	var expires_date = new Date(today.getTime() + (expires));
+
+	document.cookie = name + "=" +escape( value ) + ((expires)?";expires=" + expires_date.toGMTString():"") + ((path)? ";path=" + path : "") + ((domain)? ";domain=" + domain : "" ) + ((secure)? ";secure" : "" );
+}
+
+function GetCookie(check_name)
+{
+	var a_all_cookies = document.cookie.split( ';' );
+	var a_temp_cookie = '';
+	var cookie_name = '';
+	var cookie_value = '';
+	var b_cookie_found = false;
+
+	for(i = 0; i < a_all_cookies.length; i++)
+	{
+		a_temp_cookie = a_all_cookies[i].split( '=' );
+		cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+
+		if(cookie_name == check_name)
+		{
+			b_cookie_found = true;
+
+			if(a_temp_cookie.length > 1)
+			{
+				cookie_value = unescape(a_temp_cookie[1].replace(/^\s+|\s+$/g, ''));
+			}
+
+			return cookie_value;
+			break;
+		}
+
+		a_temp_cookie = null;
+		cookie_name = '';
+	}
+
+	if(!b_cookie_found)
+	{
+		return null;
+	}
+}
+
+function selectLdapServer()
+{
+	var serverIndex = GetCookie('defaultLdapServer');
+
+	if(serverIndex)
+	{
+		for(i = 0; i <= document.forms[0].ldapServer.options.length - 1; i++)
+		{
+			if(document.forms[0].ldapServer.options[i].value == serverIndex)
+			{
+				document.forms[0].ldapServer.options[i].selected = "1";
+			}
+		}
+	}
+}
+
+function submitForm(actionValue)
+{
+	document.forms[0].action.value = actionValue;
+	document.forms[0].submit();
+}
+
+function login()
+{
+	SetCookie('defaultLdapServer', document.forms[0].ldapServer.value, 300, '/', null, null);
+	document.forms[0].action.value = 'login';
+	document.forms[0].submit();
+}
+
+function stopSubmit()
+{
+	return false;
+}
+
+function checkEnter(e)
+{
+	var characterCode;
+
+	if(e && e.which)
+	{
+		e = e;
+		characterCode = e.which;
+	}
+	else
+	{
+		e = event;
+		characterCode = e.keyCode;
+	}
+
+	if(characterCode == 13)
+	{
+		login();
+		return false;
+	}
+	else
+	{
+		return true;
+	}
+}
+
+function setFocus()
+{
+	document.forms[0].userName.focus();
+}
+// -->
+</SCRIPT>
+
+
+</head>
+<body bgcolor="#cad2dd" topmargin="0" onLoad="javascript:displaySections();">
+<center>
+  <table cellpadding="0" cellspacing="0" width="700" bgcolor="#FFFFFF">
+    <tr>
+      <td><img src="top.gif" /></td>
+    </tr>
+    <tr>
+      <td height="130" align="left"><table cellpadding="0" cellspacing="0" width="100%" align="left">
+          <tr>
+            <td colspan="100%" height="20"></td>
+          </tr>
+          <tr>
+            <td width="5%">&nbsp;</td>
+            <td class="text3" width="90%"><strong>Please Login</strong></td>
+            <td width="5%">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="50" width="5%">&nbsp;</td>
+            <td class="text3" width="90%">
+            <table class="text3" cellpadding="0" cellspacing="0" width="100%" align="left">
+            <form action="http://10.118.0.105/user_login_submit" method="POST" onSubmit="return stopSubmit()">
+                <tr>
+                  <td colspan="100%" height="10">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td width="3%">&nbsp;</td>
+                  <td width="22%"><strong>Username:</strong><span id="url"></span></td>
+                  <td width="75%"><input type="text" name="userName" size="40" maxlength="64" tabindex="1"></td>
+                </tr>
+                <tr>
+                <td width="3%">&nbsp;</td>
+                  <td width="22%"><strong>Password:</strong><span id="url"></span></td>
+                  <td width="75%"><input type="password" name="x" size="40" maxlength="128" tabindex="2" onKeyPress="checkEnter(event)"></td>
+                </tr>
+                <tr>
+                	<td width="3%">&nbsp;</td>
+                  <td width="22%"><strong>Server:</strong><span id="url"></span></td>
+                  <td width="75%"><select name="ldapServer"><option value="0">Ridgewood</option></select></td>
+                </tr>
+                <tr>
+                <td colspan="100%">&nbsp;</td>
+                </tr>
+                <tr>
+                	<td width="3%">&nbsp;</td>
+                  <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:login();" tabindex="3"><span>Login</span></a></td>
+                </tr>
+                <input type="hidden" name="action">
+                <input type="hidden" name="redirectUrl" value="">
+                </form>
+
+  <script language="javascript">
+  <!--
+  document.forms[0].userName.focus()
+  //-->
+  </script>
+
+
+              </table></td>
+            <td width="5%">&nbsp;</td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td><table width="100%" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="35%"></td>
+            <td class="text3" width="4%"></td>
+            <td width="61%"></td>
+          </tr>
+          <tr>
+            <td height="15" colspan="100%"></td>
+          </tr>
+        </table></td>
+    </tr>
+
+    <tr>
+      <td bgcolor="#5d7ea1" height="50">&nbsp;</td>
+    </tr>
+  </table>
+</center>
+</body>
+</html>

@@ -1,0 +1,301 @@
+[
+  {
+    "symbolicName": "jinput",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "12d5c71c51d98755820e9d6625f03d44a4bd2d35",
+    "jarFileModificationDate": "2013-05-15T14:43:16-04:00",
+    "location": "E:\\Workspaces\\gECON Workspace\\gECON\\mcp751\\jars\\bin\\jinput.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "32b135e1fa8fb49ca5039e019214538e0d1725a5",
+    "jarFileModificationDate": "2013-06-13T14:44:16.116-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "bcprov-debug",
+    "version": {
+      "major": 1,
+      "minor": 48,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d703fb0e242c484e0e77e0cc08ec0965b4b63441",
+    "jarFileModificationDate": "2013-05-15T14:44:50-04:00",
+    "location": "E:\\Workspaces\\gECON Workspace\\gECON\\mcp751\\lib\\bcprov-debug-jdk15on-148.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "lwjgl_util",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b5cf270f0268a19ffb552da3df294b1c9539ad1d",
+    "jarFileModificationDate": "2013-05-15T14:43:16-04:00",
+    "location": "E:\\Workspaces\\gECON Workspace\\gECON\\mcp751\\jars\\bin\\lwjgl_util.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ef634c0c4c3550ff0ca6576f3af159b517b5aafe",
+    "jarFileModificationDate": "2013-06-13T14:44:14.373-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6d88fb58238f3dcfeb71ac071cf85a104d16f509",
+    "jarFileModificationDate": "2013-06-13T14:44:14.368-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\access-bridge-64.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "minecraft",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "30ffdce9f514a25d16a843fee8a809bd4274203d",
+    "jarFileModificationDate": "2013-05-15T14:46:16-04:00",
+    "location": "E:\\Workspaces\\gECON Workspace\\gECON\\mcp751\\jars\\bin\\minecraft.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c87a27eb79e01b9b60a51c6319d3c92da260fcbe",
+    "jarFileModificationDate": "2013-06-13T14:44:16.140-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "71558da5840d2c102a37a0083aedafe6e37e863a",
+    "jarFileModificationDate": "2013-06-13T14:44:14.369-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c4c7923b11e98bc8d1d32bfd2ff6363d212ead80",
+    "jarFileModificationDate": "2013-06-13T14:44:14.371-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f831655c50b92c41e366442d09511ea84270c45e",
+    "jarFileModificationDate": "2013-06-13T14:44:14.387-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "lwjgl",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "20f2e284a4e6c77981f553647a68cc0b29bc4ca4",
+    "jarFileModificationDate": "2013-05-15T14:43:16-04:00",
+    "location": "E:\\Workspaces\\gECON Workspace\\gECON\\mcp751\\jars\\bin\\lwjgl.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.guava",
+    "version": {
+      "major": 14,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "rc3"
+    },
+    "jarFileFingerprint": "931ae21fa8014c3ce686aaa621eae565fefb1a6a",
+    "jarFileModificationDate": "2013-05-15T14:44:48-04:00",
+    "location": "E:\\Workspaces\\gECON Workspace\\gECON\\mcp751\\lib\\guava-14.0-rc3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a3d1a9689f1c8e36ab64fb669df92076771c42f2",
+    "jarFileModificationDate": "2013-06-13T14:44:14.372-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "abd730a724364204bff29f4e0b3ced4d08f09a47",
+    "jarFileModificationDate": "2013-06-13T14:44:15.956-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "argo-3.2-src",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b671cb3bbe10c0bc5445c657dfea6799355991db",
+    "jarFileModificationDate": "2013-05-15T14:44:46-04:00",
+    "location": "E:\\Workspaces\\gECON Workspace\\gECON\\mcp751\\lib\\argo-3.2-src.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "318535c12e8ed9df6d2139664f51c5dd841cf10f",
+    "jarFileModificationDate": "2013-06-13T14:44:14.387-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a0b7abe9a4133d6a18d370d9869d0077957d8bc7",
+    "jarFileModificationDate": "2013-06-13T14:44:14.369-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.scala-lang.scala-library",
+    "version": {
+      "major": 2,
+      "minor": 10,
+      "micro": 0,
+      "qualifier": "v20121205-112020-VFINAL-18481cef9b"
+    },
+    "jarFileFingerprint": "458d046151ad179c85429ed7420ffb1eaf6ddf85",
+    "jarFileModificationDate": "2013-05-15T14:44:54-04:00",
+    "location": "E:\\Workspaces\\gECON Workspace\\gECON\\mcp751\\lib\\scala-library.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1fbfeeb3449860cd85925cef06714daa4c8220ca",
+    "jarFileModificationDate": "2013-06-13T14:44:15.910-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ba1c9658b920bc9815a31913d5d6ae3917428739",
+    "jarFileModificationDate": "2013-06-13T14:44:14.412-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5da320e46f1c616986563b2e788b5a0569cad088",
+    "jarFileModificationDate": "2013-06-13T14:44:14.372-04:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.objectweb.asm.all.debug",
+    "version": {
+      "major": 4,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "dd6ba5c392d4102458494e29f54f70ac534ec2a2",
+    "jarFileModificationDate": "2013-05-15T14:44:48-04:00",
+    "location": "E:\\Workspaces\\gECON Workspace\\gECON\\mcp751\\lib\\asm-debug-all-4.1.jar",
+    "javaRuntime": false
+  }
+]

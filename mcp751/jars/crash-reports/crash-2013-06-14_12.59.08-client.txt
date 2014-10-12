@@ -1,0 +1,78 @@
+---- Minecraft Crash Report ----
+// Daisy, daisy...
+
+Time: 6/14/13 12:59 PM
+Description: Rendering screen
+
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at gecon.mod.alpha.gui.GuiMarketAnalysis.drawGraph(GuiMarketAnalysis.java:177)
+	at gecon.mod.alpha.gui.GuiMarketAnalysis.drawGuiContainerForegroundLayer(GuiMarketAnalysis.java:208)
+	at net.minecraft.client.gui.inventory.GuiContainer.drawScreen(GuiContainer.java:143)
+	at gecon.mod.alpha.gui.GuiMarketAnalysis.drawScreen(GuiMarketAnalysis.java:82)
+	at net.minecraft.client.renderer.EntityRenderer.updateCameraAndRender(EntityRenderer.java:1021)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:870)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:759)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at gecon.mod.alpha.gui.GuiMarketAnalysis.drawGraph(GuiMarketAnalysis.java:177)
+	at gecon.mod.alpha.gui.GuiMarketAnalysis.drawGuiContainerForegroundLayer(GuiMarketAnalysis.java:208)
+	at net.minecraft.client.gui.inventory.GuiContainer.drawScreen(GuiContainer.java:143)
+	at gecon.mod.alpha.gui.GuiMarketAnalysis.drawScreen(GuiMarketAnalysis.java:82)
+
+-- Screen render details --
+Details:
+	Screen name: gecon.mod.alpha.gui.GuiMarketAnalysis
+	Mouse location: Scaled: (274, 88). Absolute: (548, 303)
+	Screen size: Scaled: (427, 240). Absolute: (854, 480). Scale factor of 2
+
+-- Affected level --
+Details:
+	Level name: MpServer
+	All players: 1 total; [EntityClientPlayerMP['Player250'/388, l='MpServer', x=212.58, y=80.62, z=311.75]]
+	Chunk stats: MultiplayerChunkCache: 415
+	Level seed: 0
+	Level generator: ID 00 - default, ver 1. Features enabled: false
+	Level generator options: 
+	Level spawn location: World: (148,64,285), Chunk: (at 4,4,13 in 9,17; contains blocks 144,0,272 to 159,255,287), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 88811 game time, 2398 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+	Forced entities: 145 total; [EntitySheep['Sheep'/275, l='MpServer', x=232.05, y=70.00, z=242.52], EntitySheep['Sheep'/274, l='MpServer', x=236.53, y=70.00, z=254.47], EntityCreeper['Creeper'/273, l='MpServer', x=233.84, y=31.00, z=248.25], EntitySkeleton['Skeleton'/272, l='MpServer', x=225.53, y=27.00, z=238.34], EntityZombie['Zombie'/279, l='MpServer', x=229.25, y=16.00, z=294.63], EntitySheep['Sheep'/278, l='MpServer', x=232.47, y=71.00, z=256.53], EntityZombie['Zombie'/277, l='MpServer', x=229.16, y=25.00, z=266.07], EntityCreeper['Creeper'/276, l='MpServer', x=224.53, y=15.00, z=256.31], EntityCreeper['Creeper'/283, l='MpServer', x=229.00, y=42.00, z=314.59], EntitySquid['Squid'/282, l='MpServer', x=227.50, y=57.00, z=296.50], EntitySquid['Squid'/281, l='MpServer', x=227.47, y=57.00, z=296.53], EntitySquid['Squid'/280, l='MpServer', x=227.50, y=57.00, z=296.50], EntityCreeper['Creeper'/287, l='MpServer', x=228.78, y=58.00, z=318.38], EntityCreeper['Creeper'/286, l='MpServer', x=231.63, y=56.00, z=314.31], EntityCreeper['Creeper'/285, l='MpServer', x=226.56, y=42.00, z=314.25], EntityCreeper['Creeper'/284, l='MpServer', x=223.94, y=42.00, z=316.72], EntitySkeleton['Skeleton'/258, l='MpServer', x=211.88, y=54.00, z=324.75], EntitySpider['Spider'/259, l='MpServer', x=212.06, y=53.00, z=321.19], EntityBat['Bat'/256, l='MpServer', x=221.72, y=58.10, z=320.72], EntitySheep['Sheep'/257, l='MpServer', x=218.03, y=56.00, z=321.70], EntitySkeleton['Skeleton'/262, l='MpServer', x=217.13, y=22.00, z=387.50], EntitySkeleton['Skeleton'/263, l='MpServer', x=223.75, y=25.00, z=384.53], EntityCreeper['Creeper'/260, l='MpServer', x=219.41, y=56.00, z=325.00], EntitySheep['Sheep'/261, l='MpServer', x=221.22, y=63.00, z=339.56], EntitySpider['Spider'/307, l='MpServer', x=245.63, y=58.00, z=307.72], EntityZombie['Zombie'/309, l='MpServer', x=247.31, y=17.98, z=334.50], EntitySkeleton['Skeleton'/308, l='MpServer', x=248.31, y=12.00, z=325.31], EntityCreeper['Creeper'/311, l='MpServer', x=244.69, y=69.00, z=342.47], EntityZombie['Zombie'/310, l='MpServer', x=246.56, y=24.00, z=334.91], EntitySheep['Sheep'/313, l='MpServer', x=242.50, y=95.00, z=377.50], EntitySheep['Sheep'/312, l='MpServer', x=247.28, y=70.00, z=343.88], EntitySheep['Sheep'/315, l='MpServer', x=243.53, y=100.00, z=381.53], EntitySheep['Sheep'/314, l='MpServer', x=240.25, y=95.00, z=374.53], EntityCreeper['Creeper'/288, l='MpServer', x=228.88, y=56.00, z=314.06], EntityBat['Bat'/289, l='MpServer', x=227.25, y=46.10, z=333.75], EntityZombie['Zombie'/290, l='MpServer', x=226.56, y=58.00, z=325.72], EntitySpider['Spider'/291, l='MpServer', x=229.50, y=58.00, z=321.00], EntitySheep['Sheep'/292, l='MpServer', x=230.50, y=69.00, z=334.50], EntitySkeleton['Skeleton'/293, l='MpServer', x=234.41, y=22.00, z=338.97], EntityZombie['Zombie'/294, l='MpServer', x=232.44, y=38.00, z=340.59], EntitySheep['Sheep'/295, l='MpServer', x=230.03, y=89.00, z=364.53], EntitySkeleton['Skeleton'/296, l='MpServer', x=238.09, y=25.00, z=383.50], EntitySkeleton['Skeleton'/297, l='MpServer', x=230.28, y=21.00, z=391.56], EntityZombie['Zombie'/338, l='MpServer', x=269.47, y=87.47, z=384.47], EntitySheep['Sheep'/337, l='MpServer', x=264.47, y=99.00, z=377.47], EntitySheep['Sheep'/336, l='MpServer', x=265.53, y=98.00, z=378.53], EntityCreeper['Creeper'/351, l='MpServer', x=284.66, y=37.00, z=293.69], EntityCreeper['Creeper'/350, l='MpServer', x=275.91, y=13.00, z=291.53], EntityCreeper['Creeper'/349, l='MpServer', x=281.50, y=66.00, z=254.50], EntitySheep['Sheep'/348, l='MpServer', x=274.38, y=65.00, z=233.47], EntityZombie['Zombie'/326, l='MpServer', x=263.44, y=15.00, z=322.59], EntityZombie['Zombie'/327, l='MpServer', x=262.50, y=15.00, z=323.50], EntitySkeleton['Skeleton'/324, l='MpServer', x=262.53, y=14.00, z=318.41], EntitySpider['Spider'/325, l='MpServer', x=259.72, y=16.00, z=319.59], EntityCreeper['Creeper'/322, l='MpServer', x=255.76, y=33.00, z=265.64], EntityBat['Bat'/323, l='MpServer', x=269.49, y=74.40, z=272.14], EntityCreeper['Creeper'/320, l='MpServer', x=258.22, y=12.00, z=267.34], EntityCreeper['Creeper'/321, l='MpServer', x=263.00, y=12.00, z=264.69], EntityZombie['Zombie'/334, l='MpServer', x=262.06, y=87.00, z=377.38], EntitySheep['Sheep'/335, l='MpServer', x=264.47, y=100.00, z=378.53], EntitySheep['Sheep'/332, l='MpServer', x=263.19, y=101.00, z=364.53], EntityCreeper['Creeper'/333, l='MpServer', x=263.09, y=87.00, z=376.34], EntitySheep['Sheep'/330, l='MpServer', x=256.13, y=93.00, z=355.47], EntitySheep['Sheep'/331, l='MpServer', x=259.52, y=91.00, z=358.54], EntityBat['Bat'/328, l='MpServer', x=276.39, y=50.25, z=337.18], EntitySheep['Sheep'/329, l='MpServer', x=258.53, y=93.00, z=354.47], EntitySkeleton['Skeleton'/356, l='MpServer', x=272.41, y=66.00, z=365.34], EntitySheep['Sheep'/357, l='MpServer', x=276.31, y=92.00, z=365.09], EntitySheep['Sheep'/358, l='MpServer', x=275.50, y=86.00, z=390.78], EntitySheep['Sheep'/115, l='MpServer', x=139.50, y=100.00, z=266.41], EntitySheep['Sheep'/352, l='MpServer', x=272.47, y=75.00, z=299.91], EntitySheep['Sheep'/114, l='MpServer', x=139.47, y=66.00, z=247.38], EntityBat['Bat'/353, l='MpServer', x=276.25, y=41.00, z=322.09], EntitySheep['Sheep'/354, l='MpServer', x=280.53, y=76.00, z=309.63], EntityBat['Bat'/355, l='MpServer', x=277.59, y=52.10, z=346.91], EntitySheep['Sheep'/366, l='MpServer', x=292.50, y=73.00, z=313.50], EntitySheep['Sheep'/124, l='MpServer', x=139.53, y=72.00, z=361.56], EntitySheep['Sheep'/367, l='MpServer', x=291.50, y=73.00, z=317.53], EntitySpider['Spider'/123, l='MpServer', x=140.81, y=18.00, z=333.28], EntityCreeper['Creeper'/122, l='MpServer', x=133.56, y=9.00, z=334.31], EntitySheep['Sheep'/120, l='MpServer', x=139.19, y=75.00, z=310.47], EntitySheep['Sheep'/137, l='MpServer', x=158.53, y=72.00, z=365.94], EntityZombie['Zombie'/136, l='MpServer', x=159.50, y=21.00, z=325.50], EntitySheep['Sheep'/138, l='MpServer', x=147.50, y=69.00, z=386.50], EntitySheep['Sheep'/129, l='MpServer', x=144.50, y=85.00, z=236.50], EntityOcelot['Ocelot'/131, l='MpServer', x=154.47, y=92.00, z=274.22], EntitySheep['Sheep'/130, l='MpServer', x=146.50, y=87.00, z=237.50], EntityClientPlayerMP['Player250'/388, l='MpServer', x=212.58, y=80.62, z=311.75], EntitySheep['Sheep'/133, l='MpServer', x=155.22, y=66.00, z=294.44], EntitySkeleton['Skeleton'/132, l='MpServer', x=161.79, y=47.00, z=303.50], EntityCreeper['Creeper'/135, l='MpServer', x=151.25, y=11.00, z=331.72], EntityMinecartChest['entity.MinecartChest.name'/134, l='MpServer', x=148.50, y=11.34, z=329.34], EntityBat['Bat'/155, l='MpServer', x=159.27, y=37.00, z=244.76], EntitySheep['Sheep'/156, l='MpServer', x=171.38, y=72.00, z=267.25], EntitySheep['Sheep'/157, l='MpServer', x=160.47, y=76.00, z=278.47], EntitySheep['Sheep'/158, l='MpServer', x=161.16, y=74.00, z=298.47], EntitySheep['Sheep'/159, l='MpServer', x=161.63, y=77.71, z=289.50], EntitySheep['Sheep'/163, l='MpServer', x=173.73, y=68.00, z=319.47], EntitySheep['Sheep'/162, l='MpServer', x=166.53, y=68.00, z=319.53], EntitySheep['Sheep'/161, l='MpServer', x=164.50, y=72.00, z=316.50], EntitySheep['Sheep'/160, l='MpServer', x=165.47, y=67.00, z=318.47], EntitySheep['Sheep'/166, l='MpServer', x=163.53, y=71.00, z=363.47], EntitySheep['Sheep'/165, l='MpServer', x=162.47, y=70.00, z=362.53], EntitySheep['Sheep'/164, l='MpServer', x=165.50, y=67.00, z=321.50], EntitySkeleton['Skeleton'/186, l='MpServer', x=190.94, y=11.00, z=248.72], EntitySkeleton['Skeleton'/187, l='MpServer', x=185.16, y=17.00, z=253.97], EntitySheep['Sheep'/190, l='MpServer', x=181.25, y=66.00, z=258.47], EntitySkeleton['Skeleton'/191, l='MpServer', x=185.53, y=15.00, z=275.34], EntitySheep['Sheep'/188, l='MpServer', x=178.47, y=66.00, z=263.53], EntitySheep['Sheep'/189, l='MpServer', x=178.50, y=66.00, z=257.50], EntitySheep['Sheep'/197, l='MpServer', x=176.50, y=71.00, z=364.50], EntitySheep['Sheep'/196, l='MpServer', x=177.36, y=70.00, z=329.83], EntitySheep['Sheep'/193, l='MpServer', x=176.97, y=64.00, z=298.97], EntitySkeleton['Skeleton'/192, l='MpServer', x=183.50, y=15.00, z=276.50], EntitySheep['Sheep'/195, l='MpServer', x=188.56, y=67.00, z=309.66], EntitySheep['Sheep'/194, l='MpServer', x=186.13, y=65.00, z=312.47], EntityZombie['Zombie'/216, l='MpServer', x=196.50, y=42.00, z=243.66], EntityItem['item.item.dyePowder.black'/217, l='MpServer', x=194.13, y=57.13, z=290.16], EntitySkeleton['Skeleton'/218, l='MpServer', x=197.09, y=56.00, z=305.66], EntitySheep['Sheep'/219, l='MpServer', x=199.50, y=78.00, z=334.50], EntitySheep['Sheep'/213, l='MpServer', x=202.97, y=66.00, z=232.94], EntitySkeleton['Skeleton'/214, l='MpServer', x=193.50, y=14.00, z=255.38], EntitySkeleton['Skeleton'/215, l='MpServer', x=196.22, y=18.00, z=243.06], EntityCreeper['Creeper'/239, l='MpServer', x=211.41, y=47.00, z=299.72], EntityZombie['Zombie'/238, l='MpServer', x=215.50, y=35.00, z=289.13], EntityItem['item.item.bone'/237, l='MpServer', x=212.09, y=46.13, z=298.97], EntityZombie['Zombie'/236, l='MpServer', x=220.32, y=25.20, z=303.41], EntitySheep['Sheep'/235, l='MpServer', x=221.34, y=71.00, z=250.91], EntitySkeleton['Skeleton'/234, l='MpServer', x=222.34, y=15.00, z=255.13], EntityBat['Bat'/254, l='MpServer', x=221.75, y=58.10, z=320.50], EntityBat['Bat'/255, l='MpServer', x=223.56, y=60.10, z=326.75], EntitySheep['Sheep'/252, l='MpServer', x=215.50, y=72.00, z=314.50], EntitySheep['Sheep'/253, l='MpServer', x=215.50, y=72.00, z=314.50], EntitySpider['Spider'/250, l='MpServer', x=218.16, y=56.00, z=318.22], EntitySpider['Spider'/251, l='MpServer', x=216.88, y=56.00, z=316.34], EntityCreeper['Creeper'/248, l='MpServer', x=221.72, y=57.00, z=310.56], EntitySkeleton['Skeleton'/249, l='MpServer', x=215.53, y=56.00, z=318.28], EntityBat['Bat'/246, l='MpServer', x=209.47, y=50.10, z=307.28], EntityBat['Bat'/247, l='MpServer', x=220.75, y=58.10, z=318.25], EntityZombie['Zombie'/244, l='MpServer', x=209.47, y=38.00, z=314.97], EntityBat['Bat'/245, l='MpServer', x=219.53, y=59.10, z=309.25], EntitySkeleton['Skeleton'/242, l='MpServer', x=214.56, y=62.41, z=288.53], EntityZombie['Zombie'/243, l='MpServer', x=215.81, y=36.00, z=319.69], EntityBat['Bat'/240, l='MpServer', x=210.50, y=51.10, z=302.25], EntityBat['Bat'/241, l='MpServer', x=208.44, y=49.10, z=301.25]]
+	Retry entities: 0 total; []
+Stacktrace:
+	at net.minecraft.client.multiplayer.WorldClient.addWorldInfoToCrashReport(WorldClient.java:441)
+	at net.minecraft.client.Minecraft.addGraphicsAndWorldToCrashReport(Minecraft.java:2413)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:775)
+	at java.lang.Thread.run(Unknown Source)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.5.2
+	Operating System: Windows 7 (amd64) version 6.1
+	Java Version: 1.7.0_21, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 768914328 bytes (733 MB) / 1037959168 bytes (989 MB) up to 1037959168 bytes (989 MB)
+	JVM Flags: 3 total; -Xincgc -Xmx1024M -Xms1024M
+	AABB Pool Size: 14403 (806568 bytes; 0 MB) allocated, 1932 (108192 bytes; 0 MB) used
+	Suspicious classes: FML and Forge are installed
+	IntCache: cache: 0, tcache: 0, allocated: 1, tallocated: 63
+	FML: MCP v7.51 FML v5.2.2.684 Minecraft Forge 7.8.0.684 4 mods loaded, 4 mods active
+	mcp{7.44} [Minecraft Coder Pack] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	FML{5.2.2.684} [Forge Mod Loader] (coremods) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Forge{7.8.0.684} [Minecraft Forge] (coremods) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	woodnet_gECON{0.1a} [gECON Alpha] (bin) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	LWJGL: 2.4.2
+	OpenGL: GeForce GT 650M/PCIe/SSE2 GL version 4.2.0, NVIDIA Corporation
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Texture Pack: Default
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 2960 (165760 bytes; 0 MB) allocated, 404 (22624 bytes; 0 MB) used

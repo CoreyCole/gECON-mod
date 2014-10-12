@@ -1,0 +1,11 @@
+package gecon.mod.alpha;
+
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+import cpw.mods.fml.common.*;
+
+@Mod(modid = mod_gECON.modid, name = "gECON Alpha", version = "0.1a")
+public class mod_gECON 
+{
+	 public static final
+}

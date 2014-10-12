@@ -1,0 +1,78 @@
+---- Minecraft Crash Report ----
+// Why did you do that?
+
+Time: 9/13/13 9:42 AM
+Description: Updating screen events
+
+java.lang.NullPointerException
+	at gecon.mod.alpha.misc.Searcher.recomb(Searcher.java:11)
+	at gecon.mod.alpha.gui.GuiMarketAnalysis.collateItems(GuiMarketAnalysis.java:352)
+	at gecon.mod.alpha.gui.GuiMarketAnalysis.keyTyped(GuiMarketAnalysis.java:142)
+	at net.minecraft.client.gui.GuiScreen.handleKeyboardInput(GuiScreen.java:243)
+	at net.minecraft.client.gui.GuiScreen.handleInput(GuiScreen.java:182)
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1499)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:834)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:759)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at gecon.mod.alpha.misc.Searcher.recomb(Searcher.java:11)
+	at gecon.mod.alpha.gui.GuiMarketAnalysis.collateItems(GuiMarketAnalysis.java:352)
+	at gecon.mod.alpha.gui.GuiMarketAnalysis.keyTyped(GuiMarketAnalysis.java:142)
+	at net.minecraft.client.gui.GuiScreen.handleKeyboardInput(GuiScreen.java:243)
+	at net.minecraft.client.gui.GuiScreen.handleInput(GuiScreen.java:182)
+
+-- Affected screen --
+Details:
+	Screen name: gecon.mod.alpha.gui.GuiMarketAnalysis
+
+-- Affected level --
+Details:
+	Level name: MpServer
+	All players: 1 total; [EntityClientPlayerMP['Player671'/35, l='MpServer', x=1408.39, y=6.62, z=31.50]]
+	Chunk stats: MultiplayerChunkCache: 441
+	Level seed: 0
+	Level generator: ID 01 - flat, ver 0. Features enabled: false
+	Level generator options: 
+	Level spawn location: World: (1413,4,21), Chunk: (at 5,0,5 in 88,1; contains blocks 1408,0,16 to 1423,255,31), Region: (2,0; contains chunks 64,0 to 95,31, blocks 1024,0,0 to 1535,255,511)
+	Level time: 39513 game time, 31115 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+	Forced entities: 16 total; [EntitySlime['Slime'/7192, l='MpServer', x=1400.38, y=4.00, z=31.39], EntitySheep['Sheep'/2, l='MpServer', x=1358.06, y=4.00, z=28.13], EntitySheep['Sheep'/3, l='MpServer', x=1355.84, y=4.00, z=42.69], EntitySheep['Sheep'/4, l='MpServer', x=1352.06, y=4.00, z=51.09], EntitySheep['Sheep'/5, l='MpServer', x=1358.78, y=4.00, z=53.38], EntitySheep['Sheep'/6, l='MpServer', x=1358.56, y=4.00, z=46.72], EntitySlime['Slime'/14137, l='MpServer', x=1408.23, y=4.96, z=25.78], EntityClientPlayerMP['Player671'/35, l='MpServer', x=1408.39, y=6.62, z=31.50], EntitySheep['Sheep'/8, l='MpServer', x=1360.84, y=4.00, z=26.38], EntitySheep['Sheep'/9, l='MpServer', x=1363.16, y=4.00, z=26.09], EntitySlime['Slime'/73553, l='MpServer', x=1406.44, y=4.00, z=85.75], EntitySlime['Slime'/61808, l='MpServer', x=1355.74, y=4.00, z=-31.84], EntitySlime['Slime'/17854, l='MpServer', x=1432.69, y=4.00, z=68.09], EntitySheep['Sheep'/10, l='MpServer', x=1370.84, y=4.00, z=33.84], EntitySlime['Slime'/27577, l='MpServer', x=1373.71, y=4.85, z=67.83], EntitySlime['Slime'/74232, l='MpServer', x=1345.94, y=4.61, z=-47.01]]
+	Retry entities: 0 total; []
+Stacktrace:
+	at net.minecraft.client.multiplayer.WorldClient.addWorldInfoToCrashReport(WorldClient.java:441)
+	at net.minecraft.client.Minecraft.addGraphicsAndWorldToCrashReport(Minecraft.java:2413)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:775)
+	at java.lang.Thread.run(Unknown Source)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.5.2
+	Operating System: Windows 7 (amd64) version 6.1
+	Java Version: 1.7.0_21, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 642946088 bytes (613 MB) / 1038876672 bytes (990 MB) up to 1038876672 bytes (990 MB)
+	JVM Flags: 3 total; -Xincgc -Xmx1024M -Xms1024M
+	AABB Pool Size: 1073 (60088 bytes; 0 MB) allocated, 2 (112 bytes; 0 MB) used
+	Suspicious classes: FML and Forge are installed
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v7.51 FML v5.2.2.684 Minecraft Forge 7.8.0.684 4 mods loaded, 4 mods active
+	mcp{7.44} [Minecraft Coder Pack] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	FML{5.2.2.684} [Forge Mod Loader] (coremods) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Forge{7.8.0.684} [Minecraft Forge] (coremods) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	woodnet_gECON{0.1a} [gECON Alpha] (bin) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	LWJGL: 2.4.2
+	OpenGL: Parallels using NVIDIA GeForce GT 640M OpenGL Engine GL version 2.1 NVIDIA-8.12.47 310.40.00.05f01, Parallels and NVIDIA Corporation
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Texture Pack: Default
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 75 (4200 bytes; 0 MB) allocated, 16 (896 bytes; 0 MB) used
